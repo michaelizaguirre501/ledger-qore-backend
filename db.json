@@ -1,3 +1,196 @@
 {
-  "vendorPayments": []
+  "vendorPayments": [
+    {
+      "id": "fafc5568-77cb-497d-a89a-d7428bc84932",
+      "batchNumber": "Batch123451",
+      "paymentAmount": "10000",
+      "date": "2021-05-05",
+      "bankAccount": "SVB Checking",
+      "postingPeriod": "May 2021",
+      "appliedAmount": "0.00",
+      "processType": "Apply Vendor Payments",
+      "createdBy": "User 3",
+      "vendors": {
+        "Vendor1": {
+          "name": "Vendor1",
+          "amount": 2500,
+          "documentNumber": "ABC1231",
+          "vendorType": "Broker",
+          "type": "BILL",
+          "date": "2021-11-08"
+        },
+        "Vendor2": {
+          "name": "Vendor2",
+          "amount": 2500,
+          "documentNumber": "ABC1232",
+          "vendorType": "Underwriter",
+          "type": "BILL",
+          "date": "2021-11-05"
+        },
+        "Vendor3": {
+          "name": "Vendor3",
+          "amount": 2500,
+          "documentNumber": "ABC1233",
+          "vendorType": "Broker",
+          "type": "BILL",
+          "date": "2021-11-07"
+        },
+        "Vendor4": {
+          "name": "Vendor4",
+          "amount": 2500,
+          "documentNumber": "ABC1234",
+          "vendorType": "Broker",
+          "type": "BILL",
+          "date": "2021-05-02"
+        }
+      },
+      "status": "In Progress",
+      "message": "Test Message",
+      "company": 9
+    },
+    {
+      "id": "1c457070-9043-4499-9509-c9ac7b96df3d",
+      "batchNumber": "Batch123452",
+      "paymentAmount": "150000",
+      "date": "2021-06-10",
+      "bankAccount": "Chase Manhattan",
+      "postingPeriod": "Jun 2021",
+      "appliedAmount": "0.00",
+      "processType": "Apply Vendor Payments",
+      "createdBy": "User 3",
+      "vendors": {
+        "Vendor1": {
+          "name": "Vendor1",
+          "amount": 37500,
+          "documentNumber": "ABC1231",
+          "vendorType": "Broker",
+          "type": "BILL",
+          "date": "2021-11-08"
+        },
+        "Vendor2": {
+          "name": "Vendor2",
+          "amount": 37500,
+          "documentNumber": "ABC1232",
+          "vendorType": "Underwriter",
+          "type": "BILL",
+          "date": "2021-11-05"
+        },
+        "Vendor3": {
+          "name": "Vendor3",
+          "amount": 37500,
+          "documentNumber": "ABC1233",
+          "vendorType": "Broker",
+          "type": "BILL",
+          "date": "2021-11-07"
+        },
+        "Vendor4": {
+          "name": "Vendor4",
+          "amount": 37500,
+          "documentNumber": "ABC1234",
+          "vendorType": "Broker",
+          "type": "BILL",
+          "date": "2021-05-02"
+        }
+      },
+      "status": "In Progress",
+      "message": "Test Message",
+      "company": 7
+    },
+    {
+      "id": "2e3513e9-ef72-4bbd-a9cc-089188408c6e",
+      "batchNumber": "Batch123453",
+      "paymentAmount": "400000",
+      "date": "2021-04-22",
+      "bankAccount": "SVB Checking",
+      "postingPeriod": "May 2021",
+      "appliedAmount": "0.00",
+      "processType": "Apply Vendor Payments",
+      "createdBy": "User 5",
+      "vendors": {
+        "Vendor1": {
+          "name": "Vendor1",
+          "amount": 100000,
+          "documentNumber": "ABC1231",
+          "vendorType": "Broker",
+          "type": "BILL",
+          "date": "2021-11-08"
+        },
+        "Vendor2": {
+          "name": "Vendor2",
+          "amount": 100000,
+          "documentNumber": "ABC1232",
+          "vendorType": "Underwriter",
+          "type": "BILL",
+          "date": "2021-11-05"
+        },
+        "Vendor3": {
+          "name": "Vendor3",
+          "amount": 100000,
+          "documentNumber": "ABC1233",
+          "vendorType": "Broker",
+          "type": "BILL",
+          "date": "2021-11-07"
+        },
+        "Vendor4": {
+          "name": "Vendor4",
+          "amount": 100000,
+          "documentNumber": "ABC1234",
+          "vendorType": "Broker",
+          "type": "BILL",
+          "date": "2021-05-02"
+        }
+      },
+      "status": "In Progress",
+      "message": "Test Message",
+      "company": 4
+    },
+    {
+      "id": "3d25a4cd-0466-4d24-aeab-bcab4fa69450",
+      "batchNumber": "Batch123454",
+      "paymentAmount": "130890",
+      "date": "2021-07-08",
+      "bankAccount": "Chase Manhattan",
+      "postingPeriod": "Jul 2021",
+      "appliedAmount": "0.00",
+      "processType": "Apply Vendor Payments",
+      "createdBy": "User 1",
+      "vendors": {
+        "Vendor1": {
+          "name": "Vendor1",
+          "amount": 32722.5,
+          "documentNumber": "ABC1231",
+          "vendorType": "Broker",
+          "type": "BILL",
+          "date": "2021-11-08"
+        },
+        "Vendor2": {
+          "name": "Vendor2",
+          "amount": 32722.5,
+          "documentNumber": "ABC1232",
+          "vendorType": "Underwriter",
+          "type": "BILL",
+          "date": "2021-11-05"
+        },
+        "Vendor3": {
+          "name": "Vendor3",
+          "amount": 32722.5,
+          "documentNumber": "ABC1233",
+          "vendorType": "Broker",
+          "type": "BILL",
+          "date": "2021-11-07"
+        },
+        "Vendor4": {
+          "name": "Vendor4",
+          "amount": 32722.5,
+          "documentNumber": "ABC1234",
+          "vendorType": "Broker",
+          "type": "BILL",
+          "date": "2021-05-02"
+        }
+      },
+      "status": "In Progress",
+      "message": "Test Message",
+      "company": 5
+    }
+  ]
 }
