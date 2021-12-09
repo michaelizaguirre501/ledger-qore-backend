@@ -13,6 +13,7 @@
       "vendors": {
         "Vendor1": {
           "name": "Vendor1",
+          "vendorId": "VB123451",
           "amount": 2500,
           "documentNumber": "ABC1231",
           "vendorType": "Broker",
@@ -21,6 +22,7 @@
         },
         "Vendor2": {
           "name": "Vendor2",
+          "vendorId": "VB123452",
           "amount": 2500,
           "documentNumber": "ABC1232",
           "vendorType": "Underwriter",
@@ -29,6 +31,7 @@
         },
         "Vendor3": {
           "name": "Vendor3",
+          "vendorId": "VB123453",
           "amount": 2500,
           "documentNumber": "ABC1233",
           "vendorType": "Broker",
@@ -37,6 +40,7 @@
         },
         "Vendor4": {
           "name": "Vendor4",
+          "vendorId": "VB123454",
           "amount": 2500,
           "documentNumber": "ABC1234",
           "vendorType": "Broker",
@@ -61,6 +65,7 @@
       "vendors": {
         "Vendor1": {
           "name": "Vendor1",
+          "vendorId": "VB123451",
           "amount": 37500,
           "documentNumber": "ABC1231",
           "vendorType": "Broker",
@@ -69,6 +74,7 @@
         },
         "Vendor2": {
           "name": "Vendor2",
+          "vendorId": "VB123452",
           "amount": 37500,
           "documentNumber": "ABC1232",
           "vendorType": "Underwriter",
@@ -77,6 +83,7 @@
         },
         "Vendor3": {
           "name": "Vendor3",
+          "vendorId": "VB123453",
           "amount": 37500,
           "documentNumber": "ABC1233",
           "vendorType": "Broker",
@@ -85,6 +92,7 @@
         },
         "Vendor4": {
           "name": "Vendor4",
+          "vendorId": "VB123454",
           "amount": 37500,
           "documentNumber": "ABC1234",
           "vendorType": "Broker",
@@ -109,6 +117,7 @@
       "vendors": {
         "Vendor1": {
           "name": "Vendor1",
+          "vendorId": "VB123451",
           "amount": 100000,
           "documentNumber": "ABC1231",
           "vendorType": "Broker",
@@ -117,6 +126,7 @@
         },
         "Vendor2": {
           "name": "Vendor2",
+          "vendorId": "VB123452",
           "amount": 100000,
           "documentNumber": "ABC1232",
           "vendorType": "Underwriter",
@@ -125,6 +135,7 @@
         },
         "Vendor3": {
           "name": "Vendor3",
+          "vendorId": "VB123453",
           "amount": 100000,
           "documentNumber": "ABC1233",
           "vendorType": "Broker",
@@ -133,6 +144,7 @@
         },
         "Vendor4": {
           "name": "Vendor4",
+          "vendorId": "VB123454",
           "amount": 100000,
           "documentNumber": "ABC1234",
           "vendorType": "Broker",
@@ -157,6 +169,7 @@
       "vendors": {
         "Vendor1": {
           "name": "Vendor1",
+          "vendorId": "VB123451",
           "amount": 32722.5,
           "documentNumber": "ABC1231",
           "vendorType": "Broker",
@@ -165,6 +178,7 @@
         },
         "Vendor2": {
           "name": "Vendor2",
+          "vendorId": "VB123452",
           "amount": 32722.5,
           "documentNumber": "ABC1232",
           "vendorType": "Underwriter",
@@ -173,6 +187,7 @@
         },
         "Vendor3": {
           "name": "Vendor3",
+          "vendorId": "VB123453",
           "amount": 32722.5,
           "documentNumber": "ABC1233",
           "vendorType": "Broker",
@@ -181,6 +196,7 @@
         },
         "Vendor4": {
           "name": "Vendor4",
+          "vendorId": "VB123454",
           "amount": 32722.5,
           "documentNumber": "ABC1234",
           "vendorType": "Broker",
@@ -205,6 +221,7 @@
       "vendors": {
         "Vendor1": {
           "name": "Vendor1",
+          "vendorId": "VB123451",
           "amount": 37500,
           "documentNumber": "ABC1231",
           "vendorType": "Broker",
@@ -213,6 +230,7 @@
         },
         "Vendor2": {
           "name": "Vendor2",
+          "vendorId": "VB123452",
           "amount": 37500,
           "documentNumber": "ABC1232",
           "vendorType": "Underwriter",
@@ -221,6 +239,7 @@
         },
         "Vendor3": {
           "name": "Vendor3",
+          "vendorId": "VB123453",
           "amount": 37500,
           "documentNumber": "ABC1233",
           "vendorType": "Broker",
@@ -229,6 +248,7 @@
         },
         "Vendor4": {
           "name": "Vendor4",
+          "vendorId": "VB123454",
           "amount": 37500,
           "documentNumber": "ABC1234",
           "vendorType": "Broker",
@@ -253,6 +273,7 @@
       "vendors": {
         "Vendor1": {
           "name": "Vendor1",
+          "vendorId": "VB123451",
           "amount": 5000,
           "documentNumber": "ABC1231",
           "vendorType": "Broker",
@@ -261,6 +282,7 @@
         },
         "Vendor2": {
           "name": "Vendor2",
+          "vendorId": "VB123452",
           "amount": 5000,
           "documentNumber": "ABC1232",
           "vendorType": "Underwriter",
@@ -269,6 +291,7 @@
         },
         "Vendor3": {
           "name": "Vendor3",
+          "vendorId": "VB123453",
           "amount": 5000,
           "documentNumber": "ABC1233",
           "vendorType": "Broker",
@@ -277,6 +300,7 @@
         },
         "Vendor4": {
           "name": "Vendor4",
+          "vendorId": "VB123454",
           "amount": 5000,
           "documentNumber": "ABC1234",
           "vendorType": "Broker",
@@ -301,6 +325,7 @@
       "vendors": {
         "Vendor1": {
           "name": "Vendor1",
+          "vendorId": "VB123451",
           "amount": 10000,
           "documentNumber": "ABC1231",
           "vendorType": "Broker",
@@ -309,6 +334,7 @@
         },
         "Vendor2": {
           "name": "Vendor2",
+          "vendorId": "VB123452",
           "amount": 10000,
           "documentNumber": "ABC1232",
           "vendorType": "Underwriter",
@@ -317,6 +343,7 @@
         },
         "Vendor3": {
           "name": "Vendor3",
+          "vendorId": "VB123453",
           "amount": 10000,
           "documentNumber": "ABC1233",
           "vendorType": "Broker",
@@ -325,6 +352,7 @@
         },
         "Vendor4": {
           "name": "Vendor4",
+          "vendorId": "VB123454",
           "amount": 10000,
           "documentNumber": "ABC1234",
           "vendorType": "Broker",
@@ -349,6 +377,7 @@
       "vendors": {
         "Vendor1": {
           "name": "Vendor1",
+          "vendorId": "VB123451",
           "amount": 80000,
           "documentNumber": "ABC1231",
           "vendorType": "Broker",
@@ -357,6 +386,7 @@
         },
         "Vendor2": {
           "name": "Vendor2",
+          "vendorId": "VB123452",
           "amount": 80000,
           "documentNumber": "ABC1232",
           "vendorType": "Underwriter",
@@ -365,6 +395,7 @@
         },
         "Vendor3": {
           "name": "Vendor3",
+          "vendorId": "VB123453",
           "amount": 80000,
           "documentNumber": "ABC1233",
           "vendorType": "Broker",
@@ -373,6 +404,7 @@
         },
         "Vendor4": {
           "name": "Vendor4",
+          "vendorId": "VB123454",
           "amount": 80000,
           "documentNumber": "ABC1234",
           "vendorType": "Broker",
@@ -397,6 +429,7 @@
       "vendors": {
         "Vendor1": {
           "name": "Vendor1",
+          "vendorId": "VB123451",
           "amount": 125000,
           "documentNumber": "ABC1231",
           "vendorType": "Broker",
@@ -405,6 +438,7 @@
         },
         "Vendor2": {
           "name": "Vendor2",
+          "vendorId": "VB123452",
           "amount": 125000,
           "documentNumber": "ABC1232",
           "vendorType": "Underwriter",
@@ -413,6 +447,7 @@
         },
         "Vendor3": {
           "name": "Vendor3",
+          "vendorId": "VB123453",
           "amount": 125000,
           "documentNumber": "ABC1233",
           "vendorType": "Broker",
@@ -421,6 +456,7 @@
         },
         "Vendor4": {
           "name": "Vendor4",
+          "vendorId": "VB123454",
           "amount": 125000,
           "documentNumber": "ABC1234",
           "vendorType": "Broker",
@@ -445,6 +481,7 @@
       "vendors": {
         "Vendor1": {
           "name": "Vendor1",
+          "vendorId": "VB123451",
           "amount": 25000,
           "documentNumber": "ABC1231",
           "vendorType": "Broker",
@@ -453,6 +490,7 @@
         },
         "Vendor2": {
           "name": "Vendor2",
+          "vendorId": "VB123452",
           "amount": 25000,
           "documentNumber": "ABC1232",
           "vendorType": "Underwriter",
@@ -461,6 +499,7 @@
         },
         "Vendor3": {
           "name": "Vendor3",
+          "vendorId": "VB123453",
           "amount": 25000,
           "documentNumber": "ABC1233",
           "vendorType": "Broker",
@@ -469,6 +508,7 @@
         },
         "Vendor4": {
           "name": "Vendor4",
+          "vendorId": "VB123454",
           "amount": 25000,
           "documentNumber": "ABC1234",
           "vendorType": "Broker",
@@ -493,6 +533,7 @@
       "vendors": {
         "Vendor1": {
           "name": "Vendor1",
+          "vendorId": "VB123451",
           "amount": 250,
           "documentNumber": "ABC1231",
           "vendorType": "Broker",
@@ -501,6 +542,7 @@
         },
         "Vendor2": {
           "name": "Vendor2",
+          "vendorId": "VB123452",
           "amount": 250,
           "documentNumber": "ABC1232",
           "vendorType": "Underwriter",
@@ -509,6 +551,7 @@
         },
         "Vendor3": {
           "name": "Vendor3",
+          "vendorId": "VB123453",
           "amount": 250,
           "documentNumber": "ABC1233",
           "vendorType": "Broker",
@@ -517,6 +560,7 @@
         },
         "Vendor4": {
           "name": "Vendor4",
+          "vendorId": "VB123454",
           "amount": 250,
           "documentNumber": "ABC1234",
           "vendorType": "Broker",
@@ -541,6 +585,7 @@
       "vendors": {
         "Vendor1": {
           "name": "Vendor1",
+          "vendorId": "VB123451",
           "amount": 30000,
           "documentNumber": "ABC1231",
           "vendorType": "Broker",
@@ -549,6 +594,7 @@
         },
         "Vendor2": {
           "name": "Vendor2",
+          "vendorId": "VB123452",
           "amount": 30000,
           "documentNumber": "ABC1232",
           "vendorType": "Underwriter",
@@ -558,6 +604,7 @@
         "Vendor3": {
           "name": "Vendor3",
           "amount": 30000,
+          "vendorId": "VB123453",
           "documentNumber": "ABC1233",
           "vendorType": "Broker",
           "type": "BILL",
@@ -565,6 +612,7 @@
         },
         "Vendor4": {
           "name": "Vendor4",
+          "vendorId": "VB123454",
           "amount": 30000,
           "documentNumber": "ABC1234",
           "vendorType": "Broker",
@@ -589,6 +637,7 @@
       "vendors": {
         "Vendor1": {
           "name": "Vendor1",
+          "vendorId": "VB123451",
           "amount": 250000,
           "documentNumber": "ABC1231",
           "vendorType": "Broker",
@@ -597,6 +646,7 @@
         },
         "Vendor2": {
           "name": "Vendor2",
+          "vendorId": "VB123452",
           "amount": 250000,
           "documentNumber": "ABC1232",
           "vendorType": "Underwriter",
@@ -605,6 +655,7 @@
         },
         "Vendor3": {
           "name": "Vendor3",
+          "vendorId": "VB123453",
           "amount": 250000,
           "documentNumber": "ABC1233",
           "vendorType": "Broker",
@@ -613,6 +664,7 @@
         },
         "Vendor4": {
           "name": "Vendor4",
+          "vendorId": "VB123454",
           "amount": 250000,
           "documentNumber": "ABC1234",
           "vendorType": "Broker",
@@ -637,6 +689,7 @@
       "vendors": {
         "Vendor1": {
           "name": "Vendor1",
+          "vendorId": "VB123451",
           "amount": 187500,
           "documentNumber": "ABC1231",
           "vendorType": "Broker",
@@ -645,6 +698,7 @@
         },
         "Vendor2": {
           "name": "Vendor2",
+          "vendorId": "VB123452",
           "amount": 187500,
           "documentNumber": "ABC1232",
           "vendorType": "Underwriter",
@@ -653,6 +707,7 @@
         },
         "Vendor3": {
           "name": "Vendor3",
+          "vendorId": "VB123453",
           "amount": 187500,
           "documentNumber": "ABC1233",
           "vendorType": "Broker",
@@ -661,6 +716,7 @@
         },
         "Vendor4": {
           "name": "Vendor4",
+          "vendorId": "VB123454",
           "amount": 187500,
           "documentNumber": "ABC1234",
           "vendorType": "Broker",
@@ -685,6 +741,7 @@
       "vendors": {
         "Vendor1": {
           "name": "Vendor1",
+          "vendorId": "VB123451",
           "amount": 31250,
           "documentNumber": "ABC1231",
           "vendorType": "Broker",
@@ -693,6 +750,7 @@
         },
         "Vendor2": {
           "name": "Vendor2",
+          "vendorId": "VB123452",
           "amount": 31250,
           "documentNumber": "ABC1232",
           "vendorType": "Underwriter",
@@ -701,6 +759,7 @@
         },
         "Vendor3": {
           "name": "Vendor3",
+          "vendorId": "VB123453",
           "amount": 31250,
           "documentNumber": "ABC1233",
           "vendorType": "Broker",
@@ -709,6 +768,7 @@
         },
         "Vendor4": {
           "name": "Vendor4",
+          "vendorId": "VB123454",
           "amount": 31250,
           "documentNumber": "ABC1234",
           "vendorType": "Broker",
@@ -719,6 +779,236 @@
       "status": "In Progress",
       "message": "Test Message",
       "company": 5
+    }
+  ],
+  "vendorBills": [
+    {
+      "billNumber": "VB123451",
+      "vendorId": "VENDOR123451",
+      "type": "Broker",
+      "company": "10",
+      "date": "2021-01-01",
+      "dueDate": "2021-02-01",
+      "amount": "5000",
+      "amountDue": "5000",
+      "terms": "Net 30",
+      "broker": "Broker 1",
+      "location": "Location 1",
+      "status": "Open",
+      "period": "Jan 2021",
+      "underwriter": "Underwriter 1",
+      "product": "Product 1",
+      "division": "Division 1",
+      "applicationNumber": "APPLICATION12345",
+      "billRecordDetails": [
+        {
+          "applicationNumber": "APPLICATION12345",
+          "amount": "5000",
+          "startDate": "2021-01-01",
+          "endDate": "2022-12-31",
+          "product": "Product 1",
+          "division": "Division 1",
+          "location": "Location 1"
+        },
+        {
+          "applicationNumber": "APPLICATION12346",
+          "amount": "6000",
+          "startDate": "2021-02-01",
+          "endDate": "2022-12-31",
+          "product": "Product 2",
+          "division": "Division 2",
+          "location": "Location 2"
+        },
+        {
+          "applicationNumber": "APPLICATION12347",
+          "amount": "7000",
+          "startDate": "2021-03-01",
+          "endDate": "2022-12-31",
+          "product": "Product 3",
+          "division": "Division 3",
+          "location": "Location 3"
+        },
+        {
+          "applicationNumber": "APPLICATION12348",
+          "amount": "8000",
+          "startDate": "2021-04-01",
+          "endDate": "2022-12-31",
+          "product": "Product 4",
+          "division": "Division 4",
+          "location": "Location 4"
+        }
+      ]
+    },
+    {
+      "billNumber": "VB123452",
+      "vendorId": "VENDOR123452",
+      "type": "Broker",
+      "company": "10",
+      "date": "2021-02-01",
+      "dueDate": "2021-03-01",
+      "amount": "10000",
+      "amountDue": "10000",
+      "terms": "Net 30",
+      "broker": "Broker 2",
+      "location": "Location 2",
+      "status": "Open",
+      "period": "Feb 2021",
+      "underwriter": "Underwriter 2",
+      "product": "Product 2",
+      "division": "Division 2",
+      "applicationNumber": "APPLICATION12346",
+      "billRecordDetails": [
+        {
+          "applicationNumber": "APPLICATION12345",
+          "amount": "5000",
+          "startDate": "2021-01-01",
+          "endDate": "2022-12-31",
+          "product": "Product 1",
+          "division": "Division 1",
+          "location": "Location 1"
+        },
+        {
+          "applicationNumber": "APPLICATION12346",
+          "amount": "6000",
+          "startDate": "2021-02-01",
+          "endDate": "2022-12-31",
+          "product": "Product 2",
+          "division": "Division 2",
+          "location": "Location 2"
+        },
+        {
+          "applicationNumber": "APPLICATION12347",
+          "amount": "7000",
+          "startDate": "2021-03-01",
+          "endDate": "2022-12-31",
+          "product": "Product 3",
+          "division": "Division 3",
+          "location": "Location 3"
+        },
+        {
+          "applicationNumber": "APPLICATION12348",
+          "amount": "8000",
+          "startDate": "2021-04-01",
+          "endDate": "2022-12-31",
+          "product": "Product 4",
+          "division": "Division 4",
+          "location": "Location 4"
+        }
+      ]
+    },
+    {
+      "billNumber": "VB123453",
+      "vendorId": "VENDOR123453",
+      "type": "Underwriter",
+      "company": "10",
+      "date": "2021-03-01",
+      "dueDate": "2021-04-01",
+      "amount": "2000",
+      "amountDue": "2000",
+      "terms": "Net 30",
+      "broker": "Broker 3",
+      "location": "Location 3",
+      "status": "Open",
+      "period": "Mar 2021",
+      "underwriter": "",
+      "product": "Product 1",
+      "division": "Division 1",
+      "applicationNumber": "APPLICATION12347",
+      "billRecordDetails": [
+        {
+          "applicationNumber": "APPLICATION12345",
+          "amount": "5000",
+          "startDate": "2021-01-01",
+          "endDate": "2022-12-31",
+          "product": "Product 1",
+          "division": "Division 1",
+          "location": "Location 1"
+        },
+        {
+          "applicationNumber": "APPLICATION12346",
+          "amount": "6000",
+          "startDate": "2021-02-01",
+          "endDate": "2022-12-31",
+          "product": "Product 2",
+          "division": "Division 2",
+          "location": "Location 2"
+        },
+        {
+          "applicationNumber": "APPLICATION12347",
+          "amount": "7000",
+          "startDate": "2021-03-01",
+          "endDate": "2022-12-31",
+          "product": "Product 3",
+          "division": "Division 3",
+          "location": "Location 3"
+        },
+        {
+          "applicationNumber": "APPLICATION12348",
+          "amount": "8000",
+          "startDate": "2021-04-01",
+          "endDate": "2022-12-31",
+          "product": "Product 4",
+          "division": "Division 4",
+          "location": "Location 4"
+        }
+      ]
+    },
+    {
+      "billNumber": "VB123454",
+      "vendorId": "VENDOR123454",
+      "type": "Broker",
+      "company": "10",
+      "date": "2021-04-02",
+      "dueDate": "2021-05-02",
+      "amount": "50000",
+      "amountDue": "50000",
+      "terms": "Net 30",
+      "broker": "Broker 4",
+      "location": "Location 4",
+      "status": "Open",
+      "period": "April 2021",
+      "underwriter": "Underwriter 4",
+      "product": "Product 4",
+      "division": "Division 4",
+      "applicationNumber": "APPLICATION12348",
+      "billRecordDetails": [
+        {
+          "applicationNumber": "APPLICATION12345",
+          "amount": "5000",
+          "startDate": "2021-01-01",
+          "endDate": "2022-12-31",
+          "product": "Product 1",
+          "division": "Division 1",
+          "location": "Location 1"
+        },
+        {
+          "applicationNumber": "APPLICATION12346",
+          "amount": "6000",
+          "startDate": "2021-02-01",
+          "endDate": "2022-12-31",
+          "product": "Product 2",
+          "division": "Division 2",
+          "location": "Location 2"
+        },
+        {
+          "applicationNumber": "APPLICATION12347",
+          "amount": "7000",
+          "startDate": "2021-03-01",
+          "endDate": "2022-12-31",
+          "product": "Product 3",
+          "division": "Division 3",
+          "location": "Location 3"
+        },
+        {
+          "applicationNumber": "APPLICATION12348",
+          "amount": "8000",
+          "startDate": "2021-04-01",
+          "endDate": "2022-12-31",
+          "product": "Product 4",
+          "division": "Division 4",
+          "location": "Location 4"
+        }
+      ]
     }
   ]
 }
