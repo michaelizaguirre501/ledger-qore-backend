@@ -620,7 +620,7 @@
           "date": "2021-05-02"
         }
       },
-      "status": "In Progress",
+      "status": "Approved",
       "message": "Test Message",
       "company": 7
     },
@@ -837,7 +837,14 @@
           "division": "Division 4",
           "location": "Location 4"
         }
-      ]
+      ],
+      "agingData": {
+        "current": "0.00",
+        "thirty": "5000.00",
+        "sixty": "0.00",
+        "ninety": "0.00",
+        "more": "0.00"
+      }
     },
     {
       "billNumber": "VB123452",
@@ -894,7 +901,14 @@
           "division": "Division 4",
           "location": "Location 4"
         }
-      ]
+      ],
+      "agingData": {
+        "current": "5000.00",
+        "thirty": "5000.00",
+        "sixty": "0.00",
+        "ninety": "0.00",
+        "more": "0.00"
+      }
     },
     {
       "billNumber": "VB123453",
@@ -951,7 +965,14 @@
           "division": "Division 4",
           "location": "Location 4"
         }
-      ]
+      ],
+      "agingData": {
+        "current": "0.00",
+        "thirty": "1000.00",
+        "sixty": "1000.00",
+        "ninety": "0.00",
+        "more": "0.00"
+      }
     },
     {
       "billNumber": "VB123454",
@@ -966,7 +987,7 @@
       "broker": "Broker 4",
       "location": "Location 4",
       "status": "Open",
-      "period": "April 2021",
+      "period": "Apr 2021",
       "underwriter": "Underwriter 4",
       "product": "Product 4",
       "division": "Division 4",
@@ -1008,7 +1029,334 @@
           "division": "Division 4",
           "location": "Location 4"
         }
-      ]
+      ],
+      "agingData": {
+        "current": "10000.00",
+        "thirty": "20000.00",
+        "sixty": "20000.00",
+        "ninety": "0.00",
+        "more": "0.00"
+      }
+    },
+    {
+      "billNumber": "VB123455",
+      "vendorId": "VENDOR123455",
+      "type": "Broker",
+      "company": "7",
+      "date": "2021-05-02",
+      "dueDate": "2021-06-02",
+      "amount": "150000",
+      "amountDue": "150000",
+      "terms": "Net 30",
+      "broker": "Broker 5",
+      "location": "Location 5",
+      "status": "Open",
+      "period": "May 2021",
+      "underwriter": "Underwriter 5",
+      "product": "Product 5",
+      "division": "Division 5",
+      "applicationNumber": "APPLICATION12349",
+      "billRecordDetails": [
+        {
+          "applicationNumber": "APPLICATION12345",
+          "amount": "5000",
+          "startDate": "2021-01-01",
+          "endDate": "2022-12-31",
+          "product": "Product 1",
+          "division": "Division 1",
+          "location": "Location 1"
+        },
+        {
+          "applicationNumber": "APPLICATION12346",
+          "amount": "6000",
+          "startDate": "2021-02-01",
+          "endDate": "2022-12-31",
+          "product": "Product 2",
+          "division": "Division 2",
+          "location": "Location 2"
+        },
+        {
+          "applicationNumber": "APPLICATION12347",
+          "amount": "7000",
+          "startDate": "2021-03-01",
+          "endDate": "2022-12-31",
+          "product": "Product 3",
+          "division": "Division 3",
+          "location": "Location 3"
+        },
+        {
+          "applicationNumber": "APPLICATION12348",
+          "amount": "8000",
+          "startDate": "2021-04-01",
+          "endDate": "2022-12-31",
+          "product": "Product 4",
+          "division": "Division 4",
+          "location": "Location 4"
+        }
+      ],
+      "agingData": {
+        "current": "0.00",
+        "thirty": "100000.00",
+        "sixty": "25000.00",
+        "ninety": "0.00",
+        "more": "25000.00"
+      }
+    },
+    {
+      "billNumber": "VB123456",
+      "vendorId": "VENDOR123456",
+      "type": "Broker",
+      "company": "5",
+      "date": "2021-06-02",
+      "dueDate": "2021-07-02",
+      "amount": "100000",
+      "amountDue": "100000",
+      "terms": "Net 30",
+      "broker": "Broker 6",
+      "location": "Location 6",
+      "status": "Open",
+      "period": "Jun 2021",
+      "underwriter": "Underwriter 6",
+      "product": "Product 6",
+      "division": "Division 6",
+      "applicationNumber": "APPLICATION123410",
+      "billRecordDetails": [
+        {
+          "applicationNumber": "APPLICATION12345",
+          "amount": "5000",
+          "startDate": "2021-01-01",
+          "endDate": "2022-12-31",
+          "product": "Product 1",
+          "division": "Division 1",
+          "location": "Location 1"
+        },
+        {
+          "applicationNumber": "APPLICATION12346",
+          "amount": "6000",
+          "startDate": "2021-02-01",
+          "endDate": "2022-12-31",
+          "product": "Product 2",
+          "division": "Division 2",
+          "location": "Location 2"
+        },
+        {
+          "applicationNumber": "APPLICATION12347",
+          "amount": "7000",
+          "startDate": "2021-03-01",
+          "endDate": "2022-12-31",
+          "product": "Product 3",
+          "division": "Division 3",
+          "location": "Location 3"
+        },
+        {
+          "applicationNumber": "APPLICATION12348",
+          "amount": "8000",
+          "startDate": "2021-04-01",
+          "endDate": "2022-12-31",
+          "product": "Product 4",
+          "division": "Division 4",
+          "location": "Location 4"
+        }
+      ],
+      "agingData": {
+        "current": "50000.00",
+        "thirty": "25000.00",
+        "sixty": "15000.00",
+        "ninety": "10000.00",
+        "more": "0.00"
+      }
+    },
+    {
+      "billNumber": "VB123457",
+      "vendorId": "VENDOR123457",
+      "type": "Broker",
+      "company": "4",
+      "date": "2021-07-02",
+      "dueDate": "2021-08-02",
+      "amount": "60000",
+      "amountDue": "60000",
+      "terms": "Net 30",
+      "broker": "Broker 7",
+      "location": "Location 7",
+      "status": "Open",
+      "period": "Jul 2021",
+      "underwriter": "Underwriter 7",
+      "product": "Product 7",
+      "division": "Division 7",
+      "applicationNumber": "APPLICATION123411",
+      "billRecordDetails": [
+        {
+          "applicationNumber": "APPLICATION12345",
+          "amount": "5000",
+          "startDate": "2021-01-01",
+          "endDate": "2022-12-31",
+          "product": "Product 1",
+          "division": "Division 1",
+          "location": "Location 1"
+        },
+        {
+          "applicationNumber": "APPLICATION12346",
+          "amount": "6000",
+          "startDate": "2021-02-01",
+          "endDate": "2022-12-31",
+          "product": "Product 2",
+          "division": "Division 2",
+          "location": "Location 2"
+        },
+        {
+          "applicationNumber": "APPLICATION12347",
+          "amount": "7000",
+          "startDate": "2021-03-01",
+          "endDate": "2022-12-31",
+          "product": "Product 3",
+          "division": "Division 3",
+          "location": "Location 3"
+        },
+        {
+          "applicationNumber": "APPLICATION12348",
+          "amount": "8000",
+          "startDate": "2021-04-01",
+          "endDate": "2022-12-31",
+          "product": "Product 4",
+          "division": "Division 4",
+          "location": "Location 4"
+        }
+      ],
+      "agingData": {
+        "current": "20000.00",
+        "thirty": "20000.00",
+        "sixty": "20000.00",
+        "ninety": "0.00",
+        "more": "0.00"
+      }
+    },
+    {
+      "billNumber": "VB123458",
+      "vendorId": "VENDOR123458",
+      "type": "Broker",
+      "company": "10",
+      "date": "2021-08-02",
+      "dueDate": "2021-09-02",
+      "amount": "1000000",
+      "amountDue": "1000000",
+      "terms": "Net 30",
+      "broker": "Broker 8",
+      "location": "Location 8",
+      "status": "Open",
+      "period": "Aug 2021",
+      "underwriter": "Underwriter 8",
+      "product": "Product 8",
+      "division": "Division 8",
+      "applicationNumber": "APPLICATION123412",
+      "billRecordDetails": [
+        {
+          "applicationNumber": "APPLICATION12345",
+          "amount": "5000",
+          "startDate": "2021-01-01",
+          "endDate": "2022-12-31",
+          "product": "Product 1",
+          "division": "Division 1",
+          "location": "Location 1"
+        },
+        {
+          "applicationNumber": "APPLICATION12346",
+          "amount": "6000",
+          "startDate": "2021-02-01",
+          "endDate": "2022-12-31",
+          "product": "Product 2",
+          "division": "Division 2",
+          "location": "Location 2"
+        },
+        {
+          "applicationNumber": "APPLICATION12347",
+          "amount": "7000",
+          "startDate": "2021-03-01",
+          "endDate": "2022-12-31",
+          "product": "Product 3",
+          "division": "Division 3",
+          "location": "Location 3"
+        },
+        {
+          "applicationNumber": "APPLICATION12348",
+          "amount": "8000",
+          "startDate": "2021-04-01",
+          "endDate": "2022-12-31",
+          "product": "Product 4",
+          "division": "Division 4",
+          "location": "Location 4"
+        }
+      ],
+      "agingData": {
+        "current": "0.00",
+        "thirty": "250000.00",
+        "sixty": "250000.00",
+        "ninety": "250000.00",
+        "more": "250000.00"
+      }
+    },
+    {
+      "billNumber": "VB123459",
+      "vendorId": "VENDOR123459",
+      "type": "Broker",
+      "company": "3",
+      "date": "2021-09-02",
+      "dueDate": "2021-10-02",
+      "amount": "15000",
+      "amountDue": "15000",
+      "terms": "Net 30",
+      "broker": "Broker 9",
+      "location": "Location 9",
+      "status": "Open",
+      "period": "April 2021",
+      "underwriter": "Underwriter 9",
+      "product": "Product 9",
+      "division": "Division 9",
+      "applicationNumber": "APPLICATION123413",
+      "billRecordDetails": [
+        {
+          "applicationNumber": "APPLICATION12345",
+          "amount": "5000",
+          "startDate": "2021-01-01",
+          "endDate": "2022-12-31",
+          "product": "Product 1",
+          "division": "Division 1",
+          "location": "Location 1"
+        },
+        {
+          "applicationNumber": "APPLICATION12346",
+          "amount": "6000",
+          "startDate": "2021-02-01",
+          "endDate": "2022-12-31",
+          "product": "Product 2",
+          "division": "Division 2",
+          "location": "Location 2"
+        },
+        {
+          "applicationNumber": "APPLICATION12347",
+          "amount": "7000",
+          "startDate": "2021-03-01",
+          "endDate": "2022-12-31",
+          "product": "Product 3",
+          "division": "Division 3",
+          "location": "Location 3"
+        },
+        {
+          "applicationNumber": "APPLICATION12348",
+          "amount": "8000",
+          "startDate": "2021-04-01",
+          "endDate": "2022-12-31",
+          "product": "Product 4",
+          "division": "Division 4",
+          "location": "Location 4"
+        }
+      ],
+      "agingData": {
+        "current": "5000.00",
+        "thirty": "5000.00",
+        "sixty": "0.00",
+        "ninety": "5000.00",
+        "more": "0.00"
+      }
     }
   ]
 }
