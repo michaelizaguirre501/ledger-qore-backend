@@ -1358,5 +1358,727 @@
         "more": "0.00"
       }
     }
+  ],
+  "customerPayments": [
+    {
+      "id": "248b1d7f-1251-47b6-9a0d-8752d07b5e0b",
+      "batchNumber": "Batch123451",
+      "paymentAmount": "10000",
+      "date": "2021-03-17",
+      "bankAccount": "SVB Checking",
+      "postingPeriod": "Mar 2021",
+      "appliedAmount": "0.00",
+      "company": 6,
+      "status": "In Progress",
+      "message": "Test Message",
+      "createdBy": "User 2",
+      "processType": "Apply Customer Payment Batches",
+      "customers": {
+        "Customer1": {
+          "name": "Customer1",
+          "customerId": "C123451",
+          "amount": 2500,
+          "documentNumber": "INV123451",
+          "type": "Invoice",
+          "date": "2021-06-05"
+        },
+        "Customer2": {
+          "name": "Customer2",
+          "customerId": "C123452",
+          "amount": 2500,
+          "documentNumber": "INV123452",
+          "type": "Invoice",
+          "date": "2021-07-15"
+        },
+        "Customer3": {
+          "name": "Customer3",
+          "customerId": "C123453",
+          "amount": 2500,
+          "documentNumber": "INV123453",
+          "type": "Invoice",
+          "date": "2021-08-12"
+        },
+        "Customer4": {
+          "name": "Customer4",
+          "customerId": "C123454",
+          "amount": 2500,
+          "documentNumber": "INV123454",
+          "type": "Invoice",
+          "date": "2021-10-27"
+        }
+      }
+    },
+    {
+      "id": "7ac6cc55-516f-4845-b530-b0b1188864ec",
+      "batchNumber": "Batch123452",
+      "paymentAmount": "152000",
+      "date": "2021-04-15",
+      "bankAccount": "Bank of America",
+      "postingPeriod": "Apr 2021",
+      "appliedAmount": "0.00",
+      "company": 5,
+      "status": "In Progress",
+      "message": "Test Message",
+      "createdBy": "User 3",
+      "processType": "Apply Customer Payment Batches",
+      "customers": {
+        "Customer1": {
+          "name": "Customer1",
+          "customerId": "C123451",
+          "amount": 38000,
+          "documentNumber": "INV123451",
+          "type": "Invoice",
+          "date": "2021-06-05"
+        },
+        "Customer2": {
+          "name": "Customer2",
+          "customerId": "C123452",
+          "amount": 38000,
+          "documentNumber": "INV123452",
+          "type": "Invoice",
+          "date": "2021-07-15"
+        },
+        "Customer3": {
+          "name": "Customer3",
+          "customerId": "C123453",
+          "amount": 38000,
+          "documentNumber": "INV123453",
+          "type": "Invoice",
+          "date": "2021-08-12"
+        },
+        "Customer4": {
+          "name": "Customer4",
+          "customerId": "C123454",
+          "amount": 38000,
+          "documentNumber": "INV123454",
+          "type": "Invoice",
+          "date": "2021-10-27"
+        }
+      }
+    },
+    {
+      "id": "5b7173d6-9721-43c2-919b-f4af873e53e7",
+      "batchNumber": "Batch123453",
+      "paymentAmount": "40000",
+      "date": "2021-04-29",
+      "bankAccount": "Chase Manhattan",
+      "postingPeriod": "Apr 2021",
+      "appliedAmount": "0.00",
+      "company": 0,
+      "status": "In Progress",
+      "message": "Test Message",
+      "createdBy": "User 3",
+      "processType": "Apply Customer Payment Batches",
+      "customers": {
+        "Customer1": {
+          "name": "Customer1",
+          "customerId": "C123451",
+          "amount": 10000,
+          "documentNumber": "INV123451",
+          "type": "Invoice",
+          "date": "2021-06-05"
+        },
+        "Customer2": {
+          "name": "Customer2",
+          "customerId": "C123452",
+          "amount": 10000,
+          "documentNumber": "INV123452",
+          "type": "Invoice",
+          "date": "2021-07-15"
+        },
+        "Customer3": {
+          "name": "Customer3",
+          "customerId": "C123453",
+          "amount": 10000,
+          "documentNumber": "INV123453",
+          "type": "Invoice",
+          "date": "2021-08-12"
+        },
+        "Customer4": {
+          "name": "Customer4",
+          "customerId": "C123454",
+          "amount": 10000,
+          "documentNumber": "INV123454",
+          "type": "Invoice",
+          "date": "2021-10-27"
+        }
+      }
+    },
+    {
+      "id": "d58f853e-99ce-47f7-a21f-44621d40970e",
+      "batchNumber": "Batch123454",
+      "paymentAmount": "82000",
+      "date": "2021-05-07",
+      "bankAccount": "SVB Checking",
+      "postingPeriod": "May 2021",
+      "appliedAmount": "0.00",
+      "company": 8,
+      "status": "In Progress",
+      "message": "Test Message",
+      "createdBy": "User 1",
+      "processType": "Apply Customer Payment Batches",
+      "customers": {
+        "Customer1": {
+          "name": "Customer1",
+          "customerId": "C123451",
+          "amount": 20500,
+          "documentNumber": "INV123451",
+          "type": "Invoice",
+          "date": "2021-06-05"
+        },
+        "Customer2": {
+          "name": "Customer2",
+          "customerId": "C123452",
+          "amount": 20500,
+          "documentNumber": "INV123452",
+          "type": "Invoice",
+          "date": "2021-07-15"
+        },
+        "Customer3": {
+          "name": "Customer3",
+          "customerId": "C123453",
+          "amount": 20500,
+          "documentNumber": "INV123453",
+          "type": "Invoice",
+          "date": "2021-08-12"
+        },
+        "Customer4": {
+          "name": "Customer4",
+          "customerId": "C123454",
+          "amount": 20500,
+          "documentNumber": "INV123454",
+          "type": "Invoice",
+          "date": "2021-10-27"
+        }
+      }
+    },
+    {
+      "id": "e125bb9b-df28-458e-aba1-0a3071a67b52",
+      "batchNumber": "Batch123455",
+      "paymentAmount": "8000",
+      "date": "2021-08-18",
+      "bankAccount": "Wells Fargo",
+      "postingPeriod": "Aug 2021",
+      "appliedAmount": "0.00",
+      "company": 7,
+      "status": "In Progress",
+      "message": "Test Message",
+      "createdBy": "User 1",
+      "processType": "Apply Customer Payment Batches",
+      "customers": {
+        "Customer1": {
+          "name": "Customer1",
+          "customerId": "C123451",
+          "amount": 2000,
+          "documentNumber": "INV123451",
+          "type": "Invoice",
+          "date": "2021-06-05"
+        },
+        "Customer2": {
+          "name": "Customer2",
+          "customerId": "C123452",
+          "amount": 2000,
+          "documentNumber": "INV123452",
+          "type": "Invoice",
+          "date": "2021-07-15"
+        },
+        "Customer3": {
+          "name": "Customer3",
+          "customerId": "C123453",
+          "amount": 2000,
+          "documentNumber": "INV123453",
+          "type": "Invoice",
+          "date": "2021-08-12"
+        },
+        "Customer4": {
+          "name": "Customer4",
+          "customerId": "C123454",
+          "amount": 2000,
+          "documentNumber": "INV123454",
+          "type": "Invoice",
+          "date": "2021-10-27"
+        }
+      }
+    },
+    {
+      "id": "c649aa65-5f7b-46ea-a7ad-5c6b87b88fa0",
+      "batchNumber": "Batch123456",
+      "paymentAmount": "150000",
+      "date": "2021-09-09",
+      "bankAccount": "Goldman Sachs",
+      "postingPeriod": "Sep 2021",
+      "appliedAmount": "0.00",
+      "company": 1,
+      "status": "In Progress",
+      "message": "Test Message",
+      "createdBy": "User 4",
+      "processType": "Apply Customer Payment Batches",
+      "customers": {
+        "Customer1": {
+          "name": "Customer1",
+          "customerId": "C123451",
+          "amount": 37500,
+          "documentNumber": "INV123451",
+          "type": "Invoice",
+          "date": "2021-06-05"
+        },
+        "Customer2": {
+          "name": "Customer2",
+          "customerId": "C123452",
+          "amount": 37500,
+          "documentNumber": "INV123452",
+          "type": "Invoice",
+          "date": "2021-07-15"
+        },
+        "Customer3": {
+          "name": "Customer3",
+          "customerId": "C123453",
+          "amount": 37500,
+          "documentNumber": "INV123453",
+          "type": "Invoice",
+          "date": "2021-08-12"
+        },
+        "Customer4": {
+          "name": "Customer4",
+          "customerId": "C123454",
+          "amount": 37500,
+          "documentNumber": "INV123454",
+          "type": "Invoice",
+          "date": "2021-10-27"
+        }
+      }
+    },
+    {
+      "id": "50969c88-30f0-4f6f-9661-271ec58ddc46",
+      "batchNumber": "Batch123457",
+      "paymentAmount": "1000000",
+      "date": "2021-03-29",
+      "bankAccount": "Bank of America",
+      "postingPeriod": "Mar 2021",
+      "appliedAmount": "0.00",
+      "company": 9,
+      "status": "In Progress",
+      "message": "Test Message",
+      "createdBy": "User 3",
+      "processType": "Apply Customer Payment Batches",
+      "customers": {
+        "Customer1": {
+          "name": "Customer1",
+          "customerId": "C123451",
+          "amount": 250000,
+          "documentNumber": "INV123451",
+          "type": "Invoice",
+          "date": "2021-06-05"
+        },
+        "Customer2": {
+          "name": "Customer2",
+          "customerId": "C123452",
+          "amount": 250000,
+          "documentNumber": "INV123452",
+          "type": "Invoice",
+          "date": "2021-07-15"
+        },
+        "Customer3": {
+          "name": "Customer3",
+          "customerId": "C123453",
+          "amount": 250000,
+          "documentNumber": "INV123453",
+          "type": "Invoice",
+          "date": "2021-08-12"
+        },
+        "Customer4": {
+          "name": "Customer4",
+          "customerId": "C123454",
+          "amount": 250000,
+          "documentNumber": "INV123454",
+          "type": "Invoice",
+          "date": "2021-10-27"
+        }
+      }
+    },
+    {
+      "id": "b7c54277-b9d0-4ee0-b12b-166447e53f60",
+      "batchNumber": "Batch123458",
+      "paymentAmount": "120000",
+      "date": "2021-07-14",
+      "bankAccount": "Chase Manhattan",
+      "postingPeriod": "Jul 2021",
+      "appliedAmount": "0.00",
+      "company": 4,
+      "status": "In Progress",
+      "message": "Test Message",
+      "createdBy": "User 5",
+      "processType": "Apply Customer Payment Batches",
+      "customers": {
+        "Customer1": {
+          "name": "Customer1",
+          "customerId": "C123451",
+          "amount": 30000,
+          "documentNumber": "INV123451",
+          "type": "Invoice",
+          "date": "2021-06-05"
+        },
+        "Customer2": {
+          "name": "Customer2",
+          "customerId": "C123452",
+          "amount": 30000,
+          "documentNumber": "INV123452",
+          "type": "Invoice",
+          "date": "2021-07-15"
+        },
+        "Customer3": {
+          "name": "Customer3",
+          "customerId": "C123453",
+          "amount": 30000,
+          "documentNumber": "INV123453",
+          "type": "Invoice",
+          "date": "2021-08-12"
+        },
+        "Customer4": {
+          "name": "Customer4",
+          "customerId": "C123454",
+          "amount": 30000,
+          "documentNumber": "INV123454",
+          "type": "Invoice",
+          "date": "2021-10-27"
+        }
+      }
+    },
+    {
+      "id": "522b4c5a-f7f6-4459-81d9-9d6c1edfdb56",
+      "batchNumber": "Batch123459",
+      "paymentAmount": "250000",
+      "date": "2021-03-18",
+      "bankAccount": "Goldman Sachs",
+      "postingPeriod": "Mar 2021",
+      "appliedAmount": "0.00",
+      "company": 2,
+      "status": "In Progress",
+      "message": "Test Message",
+      "createdBy": "User 5",
+      "processType": "Apply Customer Payment Batches",
+      "customers": {
+        "Customer1": {
+          "name": "Customer1",
+          "customerId": "C123451",
+          "amount": 62500,
+          "documentNumber": "INV123451",
+          "type": "Invoice",
+          "date": "2021-06-05"
+        },
+        "Customer2": {
+          "name": "Customer2",
+          "customerId": "C123452",
+          "amount": 62500,
+          "documentNumber": "INV123452",
+          "type": "Invoice",
+          "date": "2021-07-15"
+        },
+        "Customer3": {
+          "name": "Customer3",
+          "customerId": "C123453",
+          "amount": 62500,
+          "documentNumber": "INV123453",
+          "type": "Invoice",
+          "date": "2021-08-12"
+        },
+        "Customer4": {
+          "name": "Customer4",
+          "customerId": "C123454",
+          "amount": 62500,
+          "documentNumber": "INV123454",
+          "type": "Invoice",
+          "date": "2021-10-27"
+        }
+      }
+    },
+    {
+      "id": "8c9a3c2f-58a7-4a19-98b6-103e734f16ff",
+      "batchNumber": "Batch1234510",
+      "paymentAmount": "56000",
+      "date": "2021-11-18",
+      "bankAccount": "Wells Fargo",
+      "postingPeriod": "Nov 2021",
+      "appliedAmount": "0.00",
+      "company": 9,
+      "status": "In Progress",
+      "message": "Test Message",
+      "createdBy": "User 5",
+      "processType": "Apply Customer Payment Batches",
+      "customers": {
+        "Customer1": {
+          "name": "Customer1",
+          "customerId": "C123451",
+          "amount": 14000,
+          "documentNumber": "INV123451",
+          "type": "Invoice",
+          "date": "2021-06-05"
+        },
+        "Customer2": {
+          "name": "Customer2",
+          "customerId": "C123452",
+          "amount": 14000,
+          "documentNumber": "INV123452",
+          "type": "Invoice",
+          "date": "2021-07-15"
+        },
+        "Customer3": {
+          "name": "Customer3",
+          "customerId": "C123453",
+          "amount": 14000,
+          "documentNumber": "INV123453",
+          "type": "Invoice",
+          "date": "2021-08-12"
+        },
+        "Customer4": {
+          "name": "Customer4",
+          "customerId": "C123454",
+          "amount": 14000,
+          "documentNumber": "INV123454",
+          "type": "Invoice",
+          "date": "2021-10-27"
+        }
+      }
+    },
+    {
+      "id": "6e83960c-3b34-4380-bfb4-43d81b9b301c",
+      "batchNumber": "Batch1234511",
+      "paymentAmount": "90000",
+      "date": "2021-12-01",
+      "bankAccount": "SVB Checking",
+      "postingPeriod": "Dec 2021",
+      "appliedAmount": "0.00",
+      "company": 3,
+      "status": "In Progress",
+      "message": "Test Message",
+      "createdBy": "User 2",
+      "processType": "Apply Customer Payment Batches",
+      "customers": {
+        "Customer1": {
+          "name": "Customer1",
+          "customerId": "C123451",
+          "amount": 22500,
+          "documentNumber": "INV123451",
+          "type": "Invoice",
+          "date": "2021-06-05"
+        },
+        "Customer2": {
+          "name": "Customer2",
+          "customerId": "C123452",
+          "amount": 22500,
+          "documentNumber": "INV123452",
+          "type": "Invoice",
+          "date": "2021-07-15"
+        },
+        "Customer3": {
+          "name": "Customer3",
+          "customerId": "C123453",
+          "amount": 22500,
+          "documentNumber": "INV123453",
+          "type": "Invoice",
+          "date": "2021-08-12"
+        },
+        "Customer4": {
+          "name": "Customer4",
+          "customerId": "C123454",
+          "amount": 22500,
+          "documentNumber": "INV123454",
+          "type": "Invoice",
+          "date": "2021-10-27"
+        }
+      }
+    },
+    {
+      "id": "ba7ace04-1da4-4a85-816b-b4de1229d1ab",
+      "batchNumber": "Batch1234512",
+      "paymentAmount": "50000",
+      "date": "2021-10-23",
+      "bankAccount": "Bank of America",
+      "postingPeriod": "Oct 2021",
+      "appliedAmount": "0.00",
+      "company": 9,
+      "status": "In Progress",
+      "message": "Test Message",
+      "createdBy": "User 3",
+      "processType": "Apply Customer Payment Batches",
+      "customers": {
+        "Customer1": {
+          "name": "Customer1",
+          "customerId": "C123451",
+          "amount": 12500,
+          "documentNumber": "INV123451",
+          "type": "Invoice",
+          "date": "2021-06-05"
+        },
+        "Customer2": {
+          "name": "Customer2",
+          "customerId": "C123452",
+          "amount": 12500,
+          "documentNumber": "INV123452",
+          "type": "Invoice",
+          "date": "2021-07-15"
+        },
+        "Customer3": {
+          "name": "Customer3",
+          "customerId": "C123453",
+          "amount": 12500,
+          "documentNumber": "INV123453",
+          "type": "Invoice",
+          "date": "2021-08-12"
+        },
+        "Customer4": {
+          "name": "Customer4",
+          "customerId": "C123454",
+          "amount": 12500,
+          "documentNumber": "INV123454",
+          "type": "Invoice",
+          "date": "2021-10-27"
+        }
+      }
+    },
+    {
+      "id": "84a00fe3-06c1-4cb5-92e6-1268db51f84e",
+      "batchNumber": "Batch1234513",
+      "paymentAmount": "2000",
+      "date": "2021-11-18",
+      "bankAccount": "TD America",
+      "postingPeriod": "Nov 2021",
+      "appliedAmount": "0.00",
+      "company": 0,
+      "status": "In Progress",
+      "message": "Test Message",
+      "createdBy": "User 2",
+      "processType": "Apply Customer Payment Batches",
+      "customers": {
+        "Customer1": {
+          "name": "Customer1",
+          "customerId": "C123451",
+          "amount": 500,
+          "documentNumber": "INV123451",
+          "type": "Invoice",
+          "date": "2021-06-05"
+        },
+        "Customer2": {
+          "name": "Customer2",
+          "customerId": "C123452",
+          "amount": 500,
+          "documentNumber": "INV123452",
+          "type": "Invoice",
+          "date": "2021-07-15"
+        },
+        "Customer3": {
+          "name": "Customer3",
+          "customerId": "C123453",
+          "amount": 500,
+          "documentNumber": "INV123453",
+          "type": "Invoice",
+          "date": "2021-08-12"
+        },
+        "Customer4": {
+          "name": "Customer4",
+          "customerId": "C123454",
+          "amount": 500,
+          "documentNumber": "INV123454",
+          "type": "Invoice",
+          "date": "2021-10-27"
+        }
+      }
+    },
+    {
+      "id": "042b0451-ed9f-48fb-a83c-1ea379a5875a",
+      "batchNumber": "Batch1234514",
+      "paymentAmount": "7800",
+      "date": "2021-07-11",
+      "bankAccount": "SVB Checking",
+      "postingPeriod": "Jul 2021",
+      "appliedAmount": "0.00",
+      "company": 8,
+      "status": "In Progress",
+      "message": "Test Message",
+      "createdBy": "User 2",
+      "processType": "Apply Customer Payment Batches",
+      "customers": {
+        "Customer1": {
+          "name": "Customer1",
+          "customerId": "C123451",
+          "amount": 1950,
+          "documentNumber": "INV123451",
+          "type": "Invoice",
+          "date": "2021-06-05"
+        },
+        "Customer2": {
+          "name": "Customer2",
+          "customerId": "C123452",
+          "amount": 1950,
+          "documentNumber": "INV123452",
+          "type": "Invoice",
+          "date": "2021-07-15"
+        },
+        "Customer3": {
+          "name": "Customer3",
+          "customerId": "C123453",
+          "amount": 1950,
+          "documentNumber": "INV123453",
+          "type": "Invoice",
+          "date": "2021-08-12"
+        },
+        "Customer4": {
+          "name": "Customer4",
+          "customerId": "C123454",
+          "amount": 1950,
+          "documentNumber": "INV123454",
+          "type": "Invoice",
+          "date": "2021-10-27"
+        }
+      }
+    },
+    {
+      "id": "c5af9fc0-bc4a-4a60-a8d4-2e52e6948ea9",
+      "batchNumber": "Batch1234515",
+      "paymentAmount": "6700",
+      "date": "2021-12-08",
+      "bankAccount": "Goldman Sachs",
+      "postingPeriod": "Dec 2021",
+      "appliedAmount": "0.00",
+      "company": 2,
+      "status": "In Progress",
+      "message": "Test Message",
+      "createdBy": "User 4",
+      "processType": "Apply Customer Payment Batches",
+      "customers": {
+        "Customer1": {
+          "name": "Customer1",
+          "customerId": "C123451",
+          "amount": 1675,
+          "documentNumber": "INV123451",
+          "type": "Invoice",
+          "date": "2021-06-05"
+        },
+        "Customer2": {
+          "name": "Customer2",
+          "customerId": "C123452",
+          "amount": 1675,
+          "documentNumber": "INV123452",
+          "type": "Invoice",
+          "date": "2021-07-15"
+        },
+        "Customer3": {
+          "name": "Customer3",
+          "customerId": "C123453",
+          "amount": 1675,
+          "documentNumber": "INV123453",
+          "type": "Invoice",
+          "date": "2021-08-12"
+        },
+        "Customer4": {
+          "name": "Customer4",
+          "customerId": "C123454",
+          "amount": 1675,
+          "documentNumber": "INV123454",
+          "type": "Invoice",
+          "date": "2021-10-27"
+        }
+      }
+    }
   ]
 }
