@@ -2080,5 +2080,543 @@
         }
       }
     }
+  ],
+  "invoices": [
+    {
+      "invoiceId": "INV123451",
+      "terms": "Net 30",
+      "company": "7",
+      "broker": "Broker 1",
+      "address": "123 Test Street/Suite 1234/NY 10016",
+      "customer": "C123451",
+      "date": "2021-01-02",
+      "dueDate": "2021-02-01",
+      "division": "Division 1",
+      "underwriter": "Underwriter 1",
+      "currency": "USD",
+      "location": "Location 1",
+      "status": "Open",
+      "period": "Jan 2021",
+      "amount": "10000",
+      "amountOutstanding": "10000",
+      "applicationNumber": "APPLICATION12341",
+      "product": "Product 1",
+      "applications": [
+        {
+          "applicationNumber": "APPLICATION12341",
+          "amount": "2000",
+          "startDate": "2021-01-02",
+          "dueDate": "2021-02-02",
+          "product": "Product 1",
+          "division": "Division 1",
+          "location": "Location 1"
+        },
+        {
+          "applicationNumber": "APPLICATION12342",
+          "amount": "2000",
+          "startDate": "2021-02-02",
+          "dueDate": "2021-03-02",
+          "product": "Product 2",
+          "division": "Division 2",
+          "location": "Location 2"
+        },
+        {
+          "applicationNumber": "APPLICATION12343",
+          "amount": "2000",
+          "startDate": "2021-03-02",
+          "dueDate": "2021-04-02",
+          "product": "Product 3",
+          "division": "Division 3",
+          "location": "Location 3"
+        },
+        {
+          "applicationNumber": "APPLICATION12344",
+          "amount": "2000",
+          "startDate": "2021-04-02",
+          "dueDate": "2021-05-02",
+          "product": "Product 4",
+          "division": "Division 4",
+          "location": "Location 4"
+        },
+        {
+          "applicationNumber": "APPLICATION12345",
+          "amount": "2000",
+          "startDate": "2021-05-02",
+          "dueDate": "2021-06-02",
+          "product": "Product 5",
+          "division": "Division 5",
+          "location": "Location 5"
+        }
+      ]
+    },
+    {
+      "invoiceId": "INV123452",
+      "terms": "Net 30",
+      "company": "3",
+      "broker": "Broker 2",
+      "address": "123 Fake Street/Apt 1M/NY 10316",
+      "customer": "C123452",
+      "date": "2021-02-01",
+      "dueDate": "2021-02-28",
+      "division": "Division 2",
+      "underwriter": "Underwriter 2",
+      "currency": "USD",
+      "location": "Location 2",
+      "status": "Open",
+      "period": "Feb 2021",
+      "amount": "50000",
+      "amountOutstanding": "50000",
+      "applicationNumber": "APPLICATION123452",
+      "product": "Product 2",
+      "applications": [
+        {
+          "applicationNumber": "APPLICATION12341",
+          "amount": "10000",
+          "startDate": "2021-01-02",
+          "dueDate": "2021-02-02",
+          "product": "Product 1",
+          "division": "Division 1",
+          "location": "Location 1"
+        },
+        {
+          "applicationNumber": "APPLICATION12342",
+          "amount": "10000",
+          "startDate": "2021-02-02",
+          "dueDate": "2021-03-02",
+          "product": "Product 2",
+          "division": "Division 2",
+          "location": "Location 2"
+        },
+        {
+          "applicationNumber": "APPLICATION12343",
+          "amount": "10000",
+          "startDate": "2021-03-02",
+          "dueDate": "2021-04-02",
+          "product": "Product 3",
+          "division": "Division 3",
+          "location": "Location 3"
+        },
+        {
+          "applicationNumber": "APPLICATION12344",
+          "amount": "10000",
+          "startDate": "2021-04-02",
+          "dueDate": "2021-05-02",
+          "product": "Product 4",
+          "division": "Division 4",
+          "location": "Location 4"
+        },
+        {
+          "applicationNumber": "APPLICATION12345",
+          "amount": "10000",
+          "startDate": "2021-05-02",
+          "dueDate": "2021-06-02",
+          "product": "Product 5",
+          "division": "Division 5",
+          "location": "Location 5"
+        }
+      ]
+    },
+    {
+      "invoiceId": "INV123453",
+      "terms": "Net 30",
+      "company": "6",
+      "broker": "Broker 3",
+      "address": "123 Test Street/Suite 1234/NY 10516",
+      "customer": "C123453",
+      "date": "2021-03-01",
+      "dueDate": "2021-03-31",
+      "division": "Division 3",
+      "underwriter": "Underwriter 3",
+      "currency": "USD",
+      "location": "Location 3",
+      "status": "Open",
+      "period": "Mar 2021",
+      "amount": "20000",
+      "amountOutstanding": "20000",
+      "applicationNumber": "APPLICATION123453",
+      "product": "Product 3",
+      "applications": [
+        {
+          "applicationNumber": "APPLICATION12341",
+          "amount": "4000",
+          "startDate": "2021-01-02",
+          "dueDate": "2021-02-02",
+          "product": "Product 1",
+          "division": "Division 1",
+          "location": "Location 1"
+        },
+        {
+          "applicationNumber": "APPLICATION12342",
+          "amount": "4000",
+          "startDate": "2021-02-02",
+          "dueDate": "2021-03-02",
+          "product": "Product 2",
+          "division": "Division 2",
+          "location": "Location 2"
+        },
+        {
+          "applicationNumber": "APPLICATION12343",
+          "amount": "4000",
+          "startDate": "2021-03-02",
+          "dueDate": "2021-04-02",
+          "product": "Product 3",
+          "division": "Division 3",
+          "location": "Location 3"
+        },
+        {
+          "applicationNumber": "APPLICATION12344",
+          "amount": "4000",
+          "startDate": "2021-04-02",
+          "dueDate": "2021-05-02",
+          "product": "Product 4",
+          "division": "Division 4",
+          "location": "Location 4"
+        },
+        {
+          "applicationNumber": "APPLICATION12345",
+          "amount": "4000",
+          "startDate": "2021-05-02",
+          "dueDate": "2021-06-02",
+          "product": "Product 5",
+          "division": "Division 5",
+          "location": "Location 5"
+        }
+      ]
+    },
+    {
+      "invoiceId": "INV123454",
+      "terms": "Net 30",
+      "company": "1",
+      "broker": "Broker 4",
+      "address": "123 Fake Street/P.O. Box 12/NY 11112",
+      "customer": "C123454",
+      "date": "2021-04-01",
+      "dueDate": "2021-04-30",
+      "division": "Division 4",
+      "underwriter": "Underwriter 4",
+      "currency": "USD",
+      "location": "Location 4",
+      "status": "Open",
+      "period": "Apr 2021",
+      "amount": "40000",
+      "amountOutstanding": "40000",
+      "applicationNumber": "APPLICATION123454",
+      "product": "Product 4",
+      "applications": [
+        {
+          "applicationNumber": "APPLICATION12341",
+          "amount": "8000",
+          "startDate": "2021-01-02",
+          "dueDate": "2021-02-02",
+          "product": "Product 1",
+          "division": "Division 1",
+          "location": "Location 1"
+        },
+        {
+          "applicationNumber": "APPLICATION12342",
+          "amount": "8000",
+          "startDate": "2021-02-02",
+          "dueDate": "2021-03-02",
+          "product": "Product 2",
+          "division": "Division 2",
+          "location": "Location 2"
+        },
+        {
+          "applicationNumber": "APPLICATION12343",
+          "amount": "8000",
+          "startDate": "2021-03-02",
+          "dueDate": "2021-04-02",
+          "product": "Product 3",
+          "division": "Division 3",
+          "location": "Location 3"
+        },
+        {
+          "applicationNumber": "APPLICATION12344",
+          "amount": "8000",
+          "startDate": "2021-04-02",
+          "dueDate": "2021-05-02",
+          "product": "Product 4",
+          "division": "Division 4",
+          "location": "Location 4"
+        },
+        {
+          "applicationNumber": "APPLICATION12345",
+          "amount": "8000",
+          "startDate": "2021-05-02",
+          "dueDate": "2021-06-02",
+          "product": "Product 5",
+          "division": "Division 5",
+          "location": "Location 5"
+        }
+      ]
+    },
+    {
+      "invoiceId": "INV123455",
+      "terms": "Net 30",
+      "company": "2",
+      "broker": "Broker 5",
+      "address": "123 Spring St /Suite 1234/NY 10016",
+      "customer": "C123455",
+      "date": "2021-05-02",
+      "dueDate": "2021-06-01",
+      "division": "Division 5",
+      "underwriter": "Underwriter 5",
+      "currency": "USD",
+      "location": "Location 5",
+      "status": "Open",
+      "period": "May 2021",
+      "amount": "80000",
+      "amountOutstanding": "80000",
+      "applicationNumber": "APPLICATION12345",
+      "product": "Product 1",
+      "applications": [
+        {
+          "applicationNumber": "APPLICATION12341",
+          "amount": "16000",
+          "startDate": "2021-07-02",
+          "dueDate": "2021-08-02",
+          "product": "Product 1",
+          "division": "Division 1",
+          "location": "Location 1"
+        },
+        {
+          "applicationNumber": "APPLICATION12342",
+          "amount": "16000",
+          "startDate": "2021-04-02",
+          "dueDate": "2021-09-02",
+          "product": "Product 2",
+          "division": "Division 2",
+          "location": "Location 2"
+        },
+        {
+          "applicationNumber": "APPLICATION12343",
+          "amount": "16000",
+          "startDate": "2021-03-02",
+          "dueDate": "2021-04-02",
+          "product": "Product 3",
+          "division": "Division 3",
+          "location": "Location 3"
+        },
+        {
+          "applicationNumber": "APPLICATION12344",
+          "amount": "16000",
+          "startDate": "2021-04-02",
+          "dueDate": "2021-05-02",
+          "product": "Product 4",
+          "division": "Division 4",
+          "location": "Location 4"
+        },
+        {
+          "applicationNumber": "APPLICATION12345",
+          "amount": "16000",
+          "startDate": "2021-05-02",
+          "dueDate": "2021-06-02",
+          "product": "Product 5",
+          "division": "Division 5",
+          "location": "Location 5"
+        }
+      ]
+    },
+    {
+      "invoiceId": "INV123456",
+      "terms": "Net 30",
+      "company": "8",
+      "broker": "Broker 6",
+      "address": "123 Test Street/Suite 1234/NY 10016",
+      "customer": "C123451",
+      "date": "2021-01-02",
+      "dueDate": "2021-02-01",
+      "division": "Division 1",
+      "underwriter": "Underwriter 1",
+      "currency": "USD",
+      "location": "Location 6",
+      "status": "Open",
+      "period": "Jan 2021",
+      "amount": "100000",
+      "amountOutstanding": "100000",
+      "applicationNumber": "APPLICATION12346",
+      "product": "Product 6",
+      "applications": [
+        {
+          "applicationNumber": "APPLICATION12341",
+          "amount": "20000",
+          "startDate": "2021-01-02",
+          "dueDate": "2021-02-02",
+          "product": "Product 1",
+          "division": "Division 1",
+          "location": "Location 1"
+        },
+        {
+          "applicationNumber": "APPLICATION12342",
+          "amount": "20000",
+          "startDate": "2021-02-02",
+          "dueDate": "2021-03-02",
+          "product": "Product 2",
+          "division": "Division 2",
+          "location": "Location 2"
+        },
+        {
+          "applicationNumber": "APPLICATION12343",
+          "amount": "20000",
+          "startDate": "2021-03-02",
+          "dueDate": "2021-04-02",
+          "product": "Product 3",
+          "division": "Division 3",
+          "location": "Location 3"
+        },
+        {
+          "applicationNumber": "APPLICATION12344",
+          "amount": "20000",
+          "startDate": "2021-04-02",
+          "dueDate": "2021-05-02",
+          "product": "Product 4",
+          "division": "Division 4",
+          "location": "Location 4"
+        },
+        {
+          "applicationNumber": "APPLICATION12345",
+          "amount": "20000",
+          "startDate": "2021-05-02",
+          "dueDate": "2021-06-02",
+          "product": "Product 5",
+          "division": "Division 5",
+          "location": "Location 5"
+        }
+      ]
+    },
+    {
+      "invoiceId": "INV123457",
+      "terms": "Net 30",
+      "company": "4",
+      "broker": "Broker 7",
+      "address": "123 Main Street/Suite 1234/NY 10016",
+      "customer": "C123457",
+      "date": "2021-03-02",
+      "dueDate": "2021-04-01",
+      "division": "Division 2",
+      "underwriter": "Underwriter 2",
+      "currency": "USD",
+      "location": "Location 2",
+      "status": "Open",
+      "period": "Mar 2021",
+      "amount": "150000",
+      "amountOutstanding": "150000",
+      "applicationNumber": "APPLICATION12347",
+      "product": "Product 1",
+      "applications": [
+        {
+          "applicationNumber": "APPLICATION12341",
+          "amount": "30000",
+          "startDate": "2021-01-02",
+          "dueDate": "2021-02-02",
+          "product": "Product 1",
+          "division": "Division 1",
+          "location": "Location 1"
+        },
+        {
+          "applicationNumber": "APPLICATION12342",
+          "amount": "30000",
+          "startDate": "2021-02-02",
+          "dueDate": "2021-03-02",
+          "product": "Product 2",
+          "division": "Division 2",
+          "location": "Location 2"
+        },
+        {
+          "applicationNumber": "APPLICATION12343",
+          "amount": "30000",
+          "startDate": "2021-03-02",
+          "dueDate": "2021-04-02",
+          "product": "Product 3",
+          "division": "Division 3",
+          "location": "Location 3"
+        },
+        {
+          "applicationNumber": "APPLICATION12344",
+          "amount": "30000",
+          "startDate": "2021-04-02",
+          "dueDate": "2021-05-02",
+          "product": "Product 4",
+          "division": "Division 4",
+          "location": "Location 4"
+        },
+        {
+          "applicationNumber": "APPLICATION12345",
+          "amount": "30000",
+          "startDate": "2021-05-02",
+          "dueDate": "2021-06-02",
+          "product": "Product 5",
+          "division": "Division 5",
+          "location": "Location 5"
+        }
+      ]
+    },
+    {
+      "invoiceId": "INV123458",
+      "terms": "Net 30",
+      "company": "5",
+      "broker": "Broker 1",
+      "address": "123 Test Street/Suite 1234/NY 10016",
+      "customer": "C1234510",
+      "date": "2021-08-02",
+      "dueDate": "2021-09-02",
+      "division": "Division 8",
+      "underwriter": "Underwriter 1",
+      "currency": "USD",
+      "location": "Location 8",
+      "status": "Open",
+      "period": "Jan 2021",
+      "amount": "50000",
+      "amountOutstanding": "50000",
+      "applicationNumber": "APPLICATION12345",
+      "product": "Product 1",
+      "applications": [
+        {
+          "applicationNumber": "APPLICATION12341",
+          "amount": "10000",
+          "startDate": "2021-01-02",
+          "dueDate": "2021-02-02",
+          "product": "Product 1",
+          "division": "Division 1",
+          "location": "Location 1"
+        },
+        {
+          "applicationNumber": "APPLICATION12342",
+          "amount": "10000",
+          "startDate": "2021-02-02",
+          "dueDate": "2021-03-02",
+          "product": "Product 2",
+          "division": "Division 2",
+          "location": "Location 2"
+        },
+        {
+          "applicationNumber": "APPLICATION12343",
+          "amount": "10000",
+          "startDate": "2021-03-02",
+          "dueDate": "2021-04-02",
+          "product": "Product 3",
+          "division": "Division 3",
+          "location": "Location 3"
+        },
+        {
+          "applicationNumber": "APPLICATION12344",
+          "amount": "10000",
+          "startDate": "2021-04-02",
+          "dueDate": "2021-05-02",
+          "product": "Product 4",
+          "division": "Division 4",
+          "location": "Location 4"
+        },
+        {
+          "applicationNumber": "APPLICATION12345",
+          "amount": "10000",
+          "startDate": "2021-05-02",
+          "dueDate": "2021-06-02",
+          "product": "Product 5",
+          "division": "Division 5",
+          "location": "Location 5"
+        }
+      ]
+    }
   ]
 }
