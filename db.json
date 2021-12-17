@@ -2147,7 +2147,14 @@
           "division": "Division 5",
           "location": "Location 5"
         }
-      ]
+      ],
+      "agingData": {
+        "current": "2500.00",
+        "thirty": "2500.00",
+        "sixty": "2500.00",
+        "ninety": "2500.00",
+        "more": "0.00"
+      }
     },
     {
       "invoiceId": "INV123452",
@@ -2214,7 +2221,14 @@
           "division": "Division 5",
           "location": "Location 5"
         }
-      ]
+      ],
+      "agingData": {
+        "current": "50000.00",
+        "thirty": "0.00",
+        "sixty": "0.00",
+        "ninety": "0.00",
+        "more": "0.00"
+      }
     },
     {
       "invoiceId": "INV123453",
@@ -2281,7 +2295,14 @@
           "division": "Division 5",
           "location": "Location 5"
         }
-      ]
+      ],
+      "agingData": {
+        "current": "0.00",
+        "thirty": "10000.00",
+        "sixty": "10000.00",
+        "ninety": "0.00",
+        "more": "0.00"
+      }
     },
     {
       "invoiceId": "INV123454",
@@ -2348,7 +2369,14 @@
           "division": "Division 5",
           "location": "Location 5"
         }
-      ]
+      ],
+      "agingData": {
+        "current": "20000.00",
+        "thirty": "20000.00",
+        "sixty": "0.00",
+        "ninety": "0.00",
+        "more": "0.00"
+      }
     },
     {
       "invoiceId": "INV123455",
@@ -2415,7 +2443,14 @@
           "division": "Division 5",
           "location": "Location 5"
         }
-      ]
+      ],
+      "agingData": {
+        "current": "20000.00",
+        "thirty": "10000.00",
+        "sixty": "10000.00",
+        "ninety": "20000.00",
+        "more": "20000.00"
+      }
     },
     {
       "invoiceId": "INV123456",
@@ -2482,7 +2517,14 @@
           "division": "Division 5",
           "location": "Location 5"
         }
-      ]
+      ],
+      "agingData": {
+        "current": "25000.00",
+        "thirty": "25000.00",
+        "sixty": "50000.00",
+        "ninety": "0.00",
+        "more": "0.00"
+      }
     },
     {
       "invoiceId": "INV123457",
@@ -2549,7 +2591,14 @@
           "division": "Division 5",
           "location": "Location 5"
         }
-      ]
+      ],
+      "agingData": {
+        "current": "50000.00",
+        "thirty": "50000.00",
+        "sixty": "0.00",
+        "ninety": "50000.00",
+        "more": "0.00"
+      }
     },
     {
       "invoiceId": "INV123458",
@@ -2616,7 +2665,14 @@
           "division": "Division 5",
           "location": "Location 5"
         }
-      ]
+      ],
+      "agingData": {
+        "current": "15000.00",
+        "thirty": "5000.00",
+        "sixty": "15000.00",
+        "ninety": "10000.00",
+        "more": "5000.00"
+      }
     }
   ]
 }
