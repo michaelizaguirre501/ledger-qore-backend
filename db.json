@@ -2690,7 +2690,11 @@
       "location": "NY",
       "incomeAccount": "4000 Sales",
       "deferredAccount": "2000 Deferred Revenue",
-      "status": "Complete"
+      "status": "Complete",
+      "allocationSchedule": "Allocation Schedule 1",
+      "revenueScheduleNumber": "REVSCHED123456",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31"
     },
     {
       "applicationNumber": "APP123452",
@@ -2706,7 +2710,11 @@
       "location": "FL",
       "incomeAccount": "2000 Sales",
       "deferredAccount": "3000 Deferred Revenue",
-      "status": "In Progress"
+      "status": "Complete",
+      "allocationSchedule": "Allocation Schedule 1",
+      "revenueScheduleNumber": "REVSCHED123456",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31"
     },
     {
       "applicationNumber": "APP123453",
@@ -2722,7 +2730,11 @@
       "location": "CA",
       "incomeAccount": "1000 Sales",
       "deferredAccount": "6000 Deferred Revenue",
-      "status": "In Progress"
+      "status": "Complete",
+      "allocationSchedule": "Allocation Schedule 1",
+      "revenueScheduleNumber": "REVSCHED123456",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31"
     },
     {
       "applicationNumber": "APP123454",
@@ -2738,7 +2750,11 @@
       "location": "FL",
       "incomeAccount": "2000 Sales",
       "deferredAccount": "5000 Deferred Revenue",
-      "status": "In Progress"
+      "status": "Complete",
+      "allocationSchedule": "Allocation Schedule 1",
+      "revenueScheduleNumber": "REVSCHED123456",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31"
     },
     {
       "applicationNumber": "APP123455",
@@ -2754,7 +2770,11 @@
       "location": "FL",
       "incomeAccount": "4000 Sales",
       "deferredAccount": "2000 Deferred Revenue",
-      "status": "In Progress"
+      "status": "Complete",
+      "allocationSchedule": "Allocation Schedule 1",
+      "revenueScheduleNumber": "REVSCHED123456",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31"
     },
     {
       "applicationNumber": "APP123456",
@@ -2770,7 +2790,11 @@
       "location": "NY",
       "incomeAccount": "3000 Sales",
       "deferredAccount": "5000 Deferred Revenue",
-      "status": "In Progress"
+      "status": "Complete",
+      "allocationSchedule": "Allocation Schedule 1",
+      "revenueScheduleNumber": "REVSCHED123456",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31"
     },
     {
       "applicationNumber": "APP123457",
@@ -2786,7 +2810,11 @@
       "location": "CA",
       "incomeAccount": "3000 Sales",
       "deferredAccount": "3000 Deferred Revenue",
-      "status": "In Progress"
+      "status": "In Progress",
+      "allocationSchedule": "Allocation Schedule 1",
+      "revenueScheduleNumber": "REVSCHED123456",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31"
     },
     {
       "applicationNumber": "APP123458",
@@ -2802,7 +2830,11 @@
       "location": "AZ",
       "incomeAccount": "9000 Sales",
       "deferredAccount": "4000 Deferred Revenue",
-      "status": "In Progress"
+      "status": "In Progress",
+      "allocationSchedule": "Allocation Schedule 1",
+      "revenueScheduleNumber": "REVSCHED123456",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31"
     },
     {
       "applicationNumber": "APP123459",
@@ -2818,7 +2850,11 @@
       "location": "PA",
       "incomeAccount": "2000 Sales",
       "deferredAccount": "1000 Deferred Revenue",
-      "status": "Complete"
+      "status": "Complete",
+      "allocationSchedule": "Allocation Schedule 1",
+      "revenueScheduleNumber": "REVSCHED123456",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31"
     },
     {
       "applicationNumber": "APP1234510",
@@ -2834,7 +2870,11 @@
       "location": "SD",
       "incomeAccount": "1000 Sales",
       "deferredAccount": "2000 Deferred Revenue",
-      "status": "In Progress"
+      "status": "In Progress",
+      "allocationSchedule": "Allocation Schedule 1",
+      "revenueScheduleNumber": "REVSCHED123456",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31"
     },
     {
       "applicationNumber": "APP1234511",
@@ -2850,7 +2890,11 @@
       "location": "CA",
       "incomeAccount": "3000 Sales",
       "deferredAccount": "3000 Deferred Revenue",
-      "status": "In Progress"
+      "status": "In Progress",
+      "allocationSchedule": "Allocation Schedule 1",
+      "revenueScheduleNumber": "REVSCHED123456",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31"
     },
     {
       "applicationNumber": "APP1234512",
@@ -2866,7 +2910,11 @@
       "location": "NC",
       "incomeAccount": "5000 Sales",
       "deferredAccount": "5000 Deferred Revenue",
-      "status": "In Progress"
+      "status": "Complete",
+      "allocationSchedule": "Allocation Schedule 1",
+      "revenueScheduleNumber": "REVSCHED123456",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31"
     },
     {
       "applicationNumber": "APP1234513",
@@ -2882,7 +2930,151 @@
       "location": "TX",
       "incomeAccount": "4000 Sales",
       "deferredAccount": "7000 Deferred Revenue",
-      "status": "In Progress"
+      "status": "Complete",
+      "allocationSchedule": "Allocation Schedule 1",
+      "revenueScheduleNumber": "REVSCHED123456",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31"
+    },
+    {
+      "applicationNumber": "APP1234514",
+      "id": "000014",
+      "period": "Jul 2021",
+      "company": "5",
+      "invoiceNumber": "INV1234514",
+      "amount": "10000",
+      "product": "Product 10",
+      "productGroup": "Product Group 2",
+      "planId": "Plan 1234587",
+      "division": "12",
+      "location": "NY",
+      "incomeAccount": "5000 Sales",
+      "deferredAccount": "1000 Deferred Revenue",
+      "status": "Complete",
+      "allocationSchedule": "Allocation Schedule 4",
+      "revenueScheduleNumber": "REVSCHED123458",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31"
+    },
+    {
+      "applicationNumber": "APP1234515",
+      "id": "000015",
+      "period": "Jan 2021",
+      "company": "8",
+      "invoiceNumber": "INV1234515",
+      "amount": "60000",
+      "product": "Product 3",
+      "productGroup": "Product Group 3",
+      "planId": "Plan 1234554",
+      "division": "20",
+      "location": "CA",
+      "incomeAccount": "3000 Sales",
+      "deferredAccount": "3000 Deferred Revenue",
+      "status": "In Progress",
+      "allocationSchedule": "Allocation Schedule 1",
+      "revenueScheduleNumber": "REVSCHED1234515",
+      "startDate": "2021-03-01",
+      "endDate": "2021-12-31"
+    },
+    {
+      "applicationNumber": "APP1234516",
+      "id": "000016",
+      "period": "Mar 2021",
+      "company": "20",
+      "invoiceNumber": "INV1234516",
+      "amount": "20000",
+      "product": "Product 5",
+      "productGroup": "Product Group 5",
+      "planId": "Plan 123452",
+      "division": "13",
+      "location": "NV",
+      "incomeAccount": "1000 Sales",
+      "deferredAccount": "1000 Deferred Revenue",
+      "status": "Complete",
+      "allocationSchedule": "Allocation Schedule 6",
+      "revenueScheduleNumber": "REVSCHED1234516",
+      "startDate": "2021-04-01",
+      "endDate": "2021-12-31"
+    },
+    {
+      "applicationNumber": "APP1234517",
+      "id": "000017",
+      "period": "May 2021",
+      "company": "13",
+      "invoiceNumber": "INV1234517",
+      "amount": "90000",
+      "product": "Product 14",
+      "productGroup": "Product Group 4",
+      "planId": "Plan 123455",
+      "division": "10",
+      "location": "FL",
+      "incomeAccount": "2000 Sales",
+      "deferredAccount": "2000 Deferred Revenue",
+      "status": "In Progress",
+      "allocationSchedule": "Allocation Schedule 4",
+      "revenueScheduleNumber": "REVSCHED1234517",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31"
+    },
+    {
+      "applicationNumber": "APP1234518",
+      "id": "000018",
+      "period": "Sep 2021",
+      "company": "15",
+      "invoiceNumber": "INV1234518",
+      "amount": "2000",
+      "product": "Product 3",
+      "productGroup": "Product Group 5",
+      "planId": "Plan 123452",
+      "division": "1",
+      "location": "NY",
+      "incomeAccount": "5000 Sales",
+      "deferredAccount": "8000 Deferred Revenue",
+      "status": "In Progress",
+      "allocationSchedule": "Allocation Schedule 3",
+      "revenueScheduleNumber": "REVSCHED1234518",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31"
+    },
+    {
+      "applicationNumber": "APP1234519",
+      "id": "000019",
+      "period": "Dec 2021",
+      "company": "8",
+      "invoiceNumber": "INV1234519",
+      "amount": "2000",
+      "product": "Product 3",
+      "productGroup": "Product Group 5",
+      "planId": "Plan 123452",
+      "division": "1",
+      "location": "NY",
+      "incomeAccount": "4000 Sales",
+      "deferredAccount": "7000 Deferred Revenue",
+      "status": "In Progress",
+      "allocationSchedule": "Allocation Schedule 4",
+      "revenueScheduleNumber": "REVSCHED1234519",
+      "startDate": "2021-03-01",
+      "endDate": "2021-12-31"
+    },
+    {
+      "applicationNumber": "APP1234520",
+      "id": "000020",
+      "period": "Jan 2021",
+      "company": "5",
+      "invoiceNumber": "INV1234520",
+      "amount": "100000",
+      "product": "Product 8",
+      "productGroup": "Product Group 8",
+      "planId": "Plan 12345121",
+      "division": "5",
+      "location": "NY",
+      "incomeAccount": "1000 Sales",
+      "deferredAccount": "2000 Deferred Revenue",
+      "status": "In Progress",
+      "allocationSchedule": "Allocation Schedule 2",
+      "revenueScheduleNumber": "REVSCHED1234520",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31"
     }
   ],
   "journalEntries": [
@@ -2903,7 +3095,11 @@
           "location": "NY",
           "incomeAccount": "4000 Sales",
           "deferredAccount": "2000 Deferred Revenue",
-          "status": "In Progress"
+          "status": "In Progress",
+          "allocationSchedule": "Allocation Schedule 1",
+          "revenueScheduleNumber": "REVSCHED123456",
+          "startDate": "2021-01-01",
+          "endDate": "2021-12-31"
         },
         {
           "applicationNumber": "APP123459",
@@ -2919,17 +3115,886 @@
           "location": "PA",
           "incomeAccount": "2000 Sales",
           "deferredAccount": "1000 Deferred Revenue",
-          "status": "In Progress"
+          "status": "In Progress",
+          "allocationSchedule": "Allocation Schedule 1",
+          "revenueScheduleNumber": "REVSCHED123456",
+          "startDate": "2021-01-01",
+          "endDate": "2021-12-31"
         }
       ],
       "type": "Create Revenue Recognition",
-      "status": "In Progress",
+      "status": "Approved",
       "dateCreated": "2021-12-22T19:58:53.490Z",
       "createdBy": "User 4",
       "integrationStatus": "In Progress",
       "netSuiteJournal": "JE00001",
       "accountingPeriod": "Jan 2022",
-      "ledgerQoreJournal": "569006643"
+      "ledgerQoreJournal": "569006643",
+      "allocationSchedule": "Allocation Schedule 1",
+      "revenueScheduleNumber": "REVSCHED123456"
+    },
+    {
+      "id": "c20eebdb-abc8-4976-b551-420f7a10f97a",
+      "applications": [
+        {
+          "applicationNumber": "APP123452",
+          "id": "00002",
+          "period": "Feb 2021",
+          "company": "5",
+          "invoiceNumber": "INV123452",
+          "amount": "4000",
+          "product": "Product 2",
+          "productGroup": "Product Group 2",
+          "planId": "Plan 123452",
+          "division": "15",
+          "location": "FL",
+          "incomeAccount": "2000 Sales",
+          "deferredAccount": "3000 Deferred Revenue",
+          "status": "In Progress",
+          "allocationSchedule": "Allocation Schedule 1",
+          "revenueScheduleNumber": "REVSCHED123456",
+          "startDate": "2021-01-01",
+          "endDate": "2021-12-31"
+        },
+        {
+          "applicationNumber": "APP1234512",
+          "id": "000012",
+          "period": "Dec 2021",
+          "company": "1",
+          "invoiceNumber": "INV1234512",
+          "amount": "40000",
+          "product": "Product 6",
+          "productGroup": "Product Group 15",
+          "planId": "Plan 123458",
+          "division": "3",
+          "location": "NC",
+          "incomeAccount": "5000 Sales",
+          "deferredAccount": "5000 Deferred Revenue",
+          "status": "In Progress",
+          "allocationSchedule": "Allocation Schedule 1",
+          "revenueScheduleNumber": "REVSCHED123456",
+          "startDate": "2021-01-01",
+          "endDate": "2021-12-31"
+        }
+      ],
+      "type": "Create Revenue Recognition",
+      "status": "Approved",
+      "dateCreated": "2021-12-28T18:42:05.451Z",
+      "createdBy": "User 3",
+      "integrationStatus": "In Progress",
+      "netSuiteJournal": "JE0002",
+      "accountingPeriod": "Jan 2022",
+      "ledgerQoreJournal": "190653371",
+      "allocationSchedule": "Allocation Schedule 1",
+      "revenueScheduleNumber": "REVSCHED758127"
+    },
+    {
+      "id": "f0459a90-2d54-4e9f-86f2-f0e9acd59ebe",
+      "applications": [
+        {
+          "applicationNumber": "APP123453",
+          "id": "00003",
+          "period": "Mar 2021",
+          "company": "4",
+          "invoiceNumber": "INV123453",
+          "amount": "6000",
+          "product": "Product 3",
+          "productGroup": "Product Group 3",
+          "planId": "Plan 123453",
+          "division": "10",
+          "location": "CA",
+          "incomeAccount": "1000 Sales",
+          "deferredAccount": "6000 Deferred Revenue",
+          "status": "In Progress",
+          "allocationSchedule": "Allocation Schedule 1",
+          "revenueScheduleNumber": "REVSCHED123456",
+          "startDate": "2021-01-01",
+          "endDate": "2021-12-31"
+        },
+        {
+          "applicationNumber": "APP123454",
+          "id": "00004",
+          "period": "Apr 2021",
+          "company": "6",
+          "invoiceNumber": "INV123454",
+          "amount": "9000",
+          "product": "Product 4",
+          "productGroup": "Product Group 4",
+          "planId": "Plan 123454",
+          "division": "6",
+          "location": "FL",
+          "incomeAccount": "2000 Sales",
+          "deferredAccount": "5000 Deferred Revenue",
+          "status": "In Progress",
+          "allocationSchedule": "Allocation Schedule 1",
+          "revenueScheduleNumber": "REVSCHED123456",
+          "startDate": "2021-01-01",
+          "endDate": "2021-12-31"
+        },
+        {
+          "applicationNumber": "APP123455",
+          "id": "00005",
+          "period": "Jan 2021",
+          "company": "3",
+          "invoiceNumber": "INV123455",
+          "amount": "10000",
+          "product": "Product 1",
+          "productGroup": "Product Group 1",
+          "planId": "Plan 123451",
+          "division": "8",
+          "location": "FL",
+          "incomeAccount": "4000 Sales",
+          "deferredAccount": "2000 Deferred Revenue",
+          "status": "In Progress",
+          "allocationSchedule": "Allocation Schedule 1",
+          "revenueScheduleNumber": "REVSCHED123456",
+          "startDate": "2021-01-01",
+          "endDate": "2021-12-31"
+        },
+        {
+          "applicationNumber": "APP123456",
+          "id": "00006",
+          "period": "Jun 2021",
+          "company": "1",
+          "invoiceNumber": "INV123456",
+          "amount": "100000",
+          "product": "Product 3",
+          "productGroup": "Product Group 3",
+          "planId": "Plan 123453",
+          "division": "10",
+          "location": "NY",
+          "incomeAccount": "3000 Sales",
+          "deferredAccount": "5000 Deferred Revenue",
+          "status": "In Progress",
+          "allocationSchedule": "Allocation Schedule 1",
+          "revenueScheduleNumber": "REVSCHED123456",
+          "startDate": "2021-01-01",
+          "endDate": "2021-12-31"
+        }
+      ],
+      "type": "Create Revenue Recognition",
+      "status": "In Progress",
+      "dateCreated": "2021-12-30T18:03:19.406Z",
+      "createdBy": "User 1",
+      "integrationStatus": "In Progress",
+      "netSuiteJournal": "JE0003",
+      "accountingPeriod": "Jan 2022",
+      "ledgerQoreJournal": "904289781",
+      "allocationSchedule": "Allocation Schedule 1",
+      "revenueScheduleNumber": "REVSCHED147281"
+    },
+    {
+      "id": "a663d1ce-4ca1-43b1-8c8d-2a0382aecbe7",
+      "applications": [
+        {
+          "applicationNumber": "APP1234514",
+          "id": "000014",
+          "period": "Jul 2021",
+          "company": "5",
+          "invoiceNumber": "INV1234514",
+          "amount": "10000",
+          "product": "Product 10",
+          "productGroup": "Product Group 2",
+          "planId": "Plan 1234587",
+          "division": "12",
+          "location": "NY",
+          "incomeAccount": "5000 Sales",
+          "deferredAccount": "1000 Deferred Revenue",
+          "status": "In Progress",
+          "allocationSchedule": "Allocation Schedule 4",
+          "revenueScheduleNumber": "REVSCHED123458",
+          "startDate": "2021-01-01",
+          "endDate": "2021-12-31"
+        },
+        {
+          "applicationNumber": "APP1234513",
+          "id": "000013",
+          "period": "Jul 2021",
+          "company": "4",
+          "invoiceNumber": "INV1234513",
+          "amount": "90000",
+          "product": "Product 5",
+          "productGroup": "Product Group 1",
+          "planId": "Plan 123459",
+          "division": "7",
+          "location": "TX",
+          "incomeAccount": "4000 Sales",
+          "deferredAccount": "7000 Deferred Revenue",
+          "status": "In Progress",
+          "allocationSchedule": "Allocation Schedule 1",
+          "revenueScheduleNumber": "REVSCHED123456",
+          "startDate": "2021-01-01",
+          "endDate": "2021-12-31"
+        },
+        {
+          "applicationNumber": "APP1234516",
+          "id": "000016",
+          "period": "Mar 2021",
+          "company": "20",
+          "invoiceNumber": "INV1234516",
+          "amount": "20000",
+          "product": "Product 5",
+          "productGroup": "Product Group 5",
+          "planId": "Plan 123452",
+          "division": "13",
+          "location": "NV",
+          "incomeAccount": "1000 Sales",
+          "deferredAccount": "1000 Deferred Revenue",
+          "status": "In Progress",
+          "allocationSchedule": "Allocation Schedule 6",
+          "revenueScheduleNumber": "REVSCHED1234516",
+          "startDate": "2021-04-01",
+          "endDate": "2021-12-31"
+        }
+      ],
+      "type": "Create Revenue Recognition",
+      "status": "Approved",
+      "dateCreated": "2021-12-30T18:03:59.368Z",
+      "createdBy": "User 5",
+      "integrationStatus": "In Progress",
+      "netSuiteJournal": "JE0004",
+      "accountingPeriod": "Jan 2022",
+      "ledgerQoreJournal": "308299873",
+      "allocationSchedule": "Allocation Schedule 1",
+      "revenueScheduleNumber": "REVSCHED698235"
+    }
+  ],
+  "schedules": [
+    {
+      "id": "REVSCHED134232",
+      "applicationId": "APP203134",
+      "product": "Product 15",
+      "productGroup": "Group 1",
+      "company": "20",
+      "allocationSchedule": "Schedule 1",
+      "invoiceNumber": "INV121132",
+      "policyNumber": "123456789",
+      "transactionDate": "2021-01-01",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31",
+      "status": "In Progress",
+      "totalRevenueAmount": "1200",
+      "totalCostAmount": "120",
+      "totalRevenueRecognized": "700",
+      "remainingDefferedBalance": "500",
+      "totalCostRecognized": "70",
+      "remainingCostDefferedBalance": "50",
+      "schedulesRecordInfo": {
+        "jan": {
+          "plannedPeriod": "Jan 2021",
+          "postingPeriod": "Jan 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0001",
+          "netSuiteJournal": "JE0001"
+        },
+        "feb": {
+          "plannedPeriod": "Feb 2021",
+          "postingPeriod": "Feb 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0002",
+          "netSuiteJournal": "JE0002"
+        },
+        "mar": {
+          "plannedPeriod": "Mar 2021",
+          "postingPeriod": "Mar 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0003",
+          "netSuiteJournal": "JE0003"
+        },
+        "apr": {
+          "plannedPeriod": "Apr 2021",
+          "postingPeriod": "Apr 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0004",
+          "netSuiteJournal": "JE0004"
+        },
+        "may": {
+          "plannedPeriod": "May 2021",
+          "postingPeriod": "May 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0005",
+          "netSuiteJournal": "JE0005"
+        },
+        "jun": {
+          "plannedPeriod": "Jun 2021",
+          "postingPeriod": "Jun 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0006",
+          "netSuiteJournal": "JE0006"
+        },
+        "jul": {
+          "plannedPeriod": "Jul 2021",
+          "postingPeriod": "Jul 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0007",
+          "netSuiteJournal": "JE0007"
+        },
+        "aug": {
+          "plannedPeriod": "Aug 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "sep": {
+          "plannedPeriod": "Sep 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "oct": {
+          "plannedPeriod": "Oct 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "nov": {
+          "plannedPeriod": "Nov 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "dec": {
+          "plannedPeriod": "Dec 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        }
+      }
+    },
+    {
+      "id": "REVSCHED134255",
+      "applicationId": "APP203135",
+      "product": "Product 3",
+      "productGroup": "Group 3",
+      "company": "10",
+      "allocationSchedule": "Schedule 3",
+      "invoiceNumber": "INV12115",
+      "policyNumber": "123456789520",
+      "transactionDate": "2021-02-01",
+      "startDate": "2021-02-01",
+      "endDate": "2021-12-31",
+      "status": "In Progress",
+      "totalRevenueAmount": "2400",
+      "totalCostAmount": "240",
+      "totalRevenueRecognized": "1400",
+      "remainingDefferedBalance": "1000",
+      "totalCostRecognized": "140",
+      "remainingCostDefferedBalance": "100",
+      "schedulesRecordInfo": {
+        "jan": {
+          "plannedPeriod": "Jan 2021",
+          "postingPeriod": "Jan 2021",
+          "amount": "200",
+          "ledgerQoreJournal": "LQJE0001",
+          "netSuiteJournal": "JE0001"
+        },
+        "feb": {
+          "plannedPeriod": "Feb 2021",
+          "postingPeriod": "Feb 2021",
+          "amount": "200",
+          "ledgerQoreJournal": "LQJE0002",
+          "netSuiteJournal": "JE0002"
+        },
+        "mar": {
+          "plannedPeriod": "Mar 2021",
+          "postingPeriod": "Mar 2021",
+          "amount": "200",
+          "ledgerQoreJournal": "LQJE0003",
+          "netSuiteJournal": "JE0003"
+        },
+        "apr": {
+          "plannedPeriod": "Apr 2021",
+          "postingPeriod": "Apr 2021",
+          "amount": "200",
+          "ledgerQoreJournal": "LQJE0004",
+          "netSuiteJournal": "JE0004"
+        },
+        "may": {
+          "plannedPeriod": "May 2021",
+          "postingPeriod": "May 2021",
+          "amount": "200",
+          "ledgerQoreJournal": "LQJE0005",
+          "netSuiteJournal": "JE0005"
+        },
+        "jun": {
+          "plannedPeriod": "Jun 2021",
+          "postingPeriod": "Jun 2021",
+          "amount": "200",
+          "ledgerQoreJournal": "LQJE0006",
+          "netSuiteJournal": "JE0006"
+        },
+        "jul": {
+          "plannedPeriod": "Jul 2021",
+          "postingPeriod": "Jul 2021",
+          "amount": "200",
+          "ledgerQoreJournal": "LQJE0007",
+          "netSuiteJournal": "JE0007"
+        },
+        "aug": {
+          "plannedPeriod": "Aug 2021",
+          "postingPeriod": "",
+          "amount": "200",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "sep": {
+          "plannedPeriod": "Sep 2021",
+          "postingPeriod": "",
+          "amount": "200",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "oct": {
+          "plannedPeriod": "Oct 2021",
+          "postingPeriod": "",
+          "amount": "200",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "nov": {
+          "plannedPeriod": "Nov 2021",
+          "postingPeriod": "",
+          "amount": "200",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "dec": {
+          "plannedPeriod": "Dec 2021",
+          "postingPeriod": "",
+          "amount": "200",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        }
+      }
+    },
+    {
+      "id": "REVSCHED1342385",
+      "applicationId": "APP203139",
+      "product": "Product 1",
+      "productGroup": "Group 1",
+      "company": "13",
+      "allocationSchedule": "Schedule 1",
+      "invoiceNumber": "INV1211315",
+      "policyNumber": "123456789556",
+      "transactionDate": "2021-01-01",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31",
+      "status": "In Progress",
+      "totalRevenueAmount": "1200",
+      "totalCostAmount": "120",
+      "totalRevenueRecognized": "700",
+      "remainingDefferedBalance": "500",
+      "totalCostRecognized": "70",
+      "remainingCostDefferedBalance": "50",
+      "schedulesRecordInfo": {
+        "jan": {
+          "plannedPeriod": "Jan 2021",
+          "postingPeriod": "Jan 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0001",
+          "netSuiteJournal": "JE0001"
+        },
+        "feb": {
+          "plannedPeriod": "Feb 2021",
+          "postingPeriod": "Feb 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0002",
+          "netSuiteJournal": "JE0002"
+        },
+        "mar": {
+          "plannedPeriod": "Mar 2021",
+          "postingPeriod": "Mar 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0003",
+          "netSuiteJournal": "JE0003"
+        },
+        "apr": {
+          "plannedPeriod": "Apr 2021",
+          "postingPeriod": "Apr 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0004",
+          "netSuiteJournal": "JE0004"
+        },
+        "may": {
+          "plannedPeriod": "May 2021",
+          "postingPeriod": "May 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0005",
+          "netSuiteJournal": "JE0005"
+        },
+        "jun": {
+          "plannedPeriod": "Jun 2021",
+          "postingPeriod": "Jun 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0006",
+          "netSuiteJournal": "JE0006"
+        },
+        "jul": {
+          "plannedPeriod": "Jul 2021",
+          "postingPeriod": "Jul 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0007",
+          "netSuiteJournal": "JE0007"
+        },
+        "aug": {
+          "plannedPeriod": "Aug 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "sep": {
+          "plannedPeriod": "Sep 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "oct": {
+          "plannedPeriod": "Oct 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "nov": {
+          "plannedPeriod": "Nov 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "dec": {
+          "plannedPeriod": "Dec 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        }
+      }
+    },
+    {
+      "id": "REVSCHED1342784",
+      "applicationId": "APP2031399",
+      "product": "Product 1",
+      "productGroup": "Group 1",
+      "company": "15",
+      "allocationSchedule": "Schedule 1",
+      "invoiceNumber": "INV1211399",
+      "policyNumber": "123456789999",
+      "transactionDate": "2021-01-01",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31",
+      "status": "In Progress",
+      "totalRevenueAmount": "1200",
+      "totalCostAmount": "120",
+      "totalRevenueRecognized": "700",
+      "remainingDefferedBalance": "500",
+      "totalCostRecognized": "70",
+      "remainingCostDefferedBalance": "50",
+      "schedulesRecordInfo": {
+        "jan": {
+          "plannedPeriod": "Jan 2021",
+          "postingPeriod": "Jan 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0001",
+          "netSuiteJournal": "JE0001"
+        },
+        "feb": {
+          "plannedPeriod": "Feb 2021",
+          "postingPeriod": "Feb 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0002",
+          "netSuiteJournal": "JE0002"
+        },
+        "mar": {
+          "plannedPeriod": "Mar 2021",
+          "postingPeriod": "Mar 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0003",
+          "netSuiteJournal": "JE0003"
+        },
+        "apr": {
+          "plannedPeriod": "Apr 2021",
+          "postingPeriod": "Apr 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0004",
+          "netSuiteJournal": "JE0004"
+        },
+        "may": {
+          "plannedPeriod": "May 2021",
+          "postingPeriod": "May 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0005",
+          "netSuiteJournal": "JE0005"
+        },
+        "jun": {
+          "plannedPeriod": "Jun 2021",
+          "postingPeriod": "Jun 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0006",
+          "netSuiteJournal": "JE0006"
+        },
+        "jul": {
+          "plannedPeriod": "Jul 2021",
+          "postingPeriod": "Jul 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0007",
+          "netSuiteJournal": "JE0007"
+        },
+        "aug": {
+          "plannedPeriod": "Aug 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "sep": {
+          "plannedPeriod": "Sep 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "oct": {
+          "plannedPeriod": "Oct 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "nov": {
+          "plannedPeriod": "Nov 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "dec": {
+          "plannedPeriod": "Dec 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        }
+      }
+    },
+    {
+      "id": "REVSCHED1340000",
+      "applicationId": "APP2031345",
+      "product": "Product 9",
+      "productGroup": "Group 5",
+      "company": "5",
+      "allocationSchedule": "Schedule 1",
+      "invoiceNumber": "INV121132",
+      "policyNumber": "123456789",
+      "transactionDate": "2021-01-01",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31",
+      "status": "In Progress",
+      "totalRevenueAmount": "1200",
+      "totalCostAmount": "120",
+      "totalRevenueRecognized": "700",
+      "remainingDefferedBalance": "500",
+      "totalCostRecognized": "70",
+      "remainingCostDefferedBalance": "50",
+      "schedulesRecordInfo": {
+        "jan": {
+          "plannedPeriod": "Jan 2021",
+          "postingPeriod": "Jan 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0001",
+          "netSuiteJournal": "JE0001"
+        },
+        "feb": {
+          "plannedPeriod": "Feb 2021",
+          "postingPeriod": "Feb 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0002",
+          "netSuiteJournal": "JE0002"
+        },
+        "mar": {
+          "plannedPeriod": "Mar 2021",
+          "postingPeriod": "Mar 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0003",
+          "netSuiteJournal": "JE0003"
+        },
+        "apr": {
+          "plannedPeriod": "Apr 2021",
+          "postingPeriod": "Apr 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0004",
+          "netSuiteJournal": "JE0004"
+        },
+        "may": {
+          "plannedPeriod": "May 2021",
+          "postingPeriod": "May 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0005",
+          "netSuiteJournal": "JE0005"
+        },
+        "jun": {
+          "plannedPeriod": "Jun 2021",
+          "postingPeriod": "Jun 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0006",
+          "netSuiteJournal": "JE0006"
+        },
+        "jul": {
+          "plannedPeriod": "Jul 2021",
+          "postingPeriod": "Jul 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0007",
+          "netSuiteJournal": "JE0007"
+        },
+        "aug": {
+          "plannedPeriod": "Aug 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "sep": {
+          "plannedPeriod": "Sep 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "oct": {
+          "plannedPeriod": "Oct 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "nov": {
+          "plannedPeriod": "Nov 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "dec": {
+          "plannedPeriod": "Dec 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        }
+      }
+    },
+    {
+      "id": "REVSCHED1342587",
+      "applicationId": "APP203135",
+      "product": "Product 13",
+      "productGroup": "Group 13",
+      "company": "13",
+      "allocationSchedule": "Schedule 2",
+      "invoiceNumber": "INV121134",
+      "policyNumber": "1234567878",
+      "transactionDate": "2021-01-01",
+      "startDate": "2021-01-01",
+      "endDate": "2021-12-31",
+      "status": "In Progress",
+      "totalRevenueAmount": "1200",
+      "totalCostAmount": "120",
+      "totalRevenueRecognized": "700",
+      "remainingDefferedBalance": "500",
+      "totalCostRecognized": "70",
+      "remainingCostDefferedBalance": "50",
+      "schedulesRecordInfo": {
+        "jan": {
+          "plannedPeriod": "Jan 2021",
+          "postingPeriod": "Jan 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0001",
+          "netSuiteJournal": "JE0001"
+        },
+        "feb": {
+          "plannedPeriod": "Feb 2021",
+          "postingPeriod": "Feb 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0002",
+          "netSuiteJournal": "JE0002"
+        },
+        "mar": {
+          "plannedPeriod": "Mar 2021",
+          "postingPeriod": "Mar 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0003",
+          "netSuiteJournal": "JE0003"
+        },
+        "apr": {
+          "plannedPeriod": "Apr 2021",
+          "postingPeriod": "Apr 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0004",
+          "netSuiteJournal": "JE0004"
+        },
+        "may": {
+          "plannedPeriod": "May 2021",
+          "postingPeriod": "May 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0005",
+          "netSuiteJournal": "JE0005"
+        },
+        "jun": {
+          "plannedPeriod": "Jun 2021",
+          "postingPeriod": "Jun 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0006",
+          "netSuiteJournal": "JE0006"
+        },
+        "jul": {
+          "plannedPeriod": "Jul 2021",
+          "postingPeriod": "Jul 2021",
+          "amount": "100",
+          "ledgerQoreJournal": "LQJE0007",
+          "netSuiteJournal": "JE0007"
+        },
+        "aug": {
+          "plannedPeriod": "Aug 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "sep": {
+          "plannedPeriod": "Sep 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "oct": {
+          "plannedPeriod": "Oct 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "nov": {
+          "plannedPeriod": "Nov 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        },
+        "dec": {
+          "plannedPeriod": "Dec 2021",
+          "postingPeriod": "",
+          "amount": "100",
+          "ledgerQoreJournal": "",
+          "netSuiteJournal": ""
+        }
+      }
     }
   ]
 }
